@@ -1,7 +1,7 @@
 AI Startups in the GPT Era
 ==========================
 
-What businesses are enabled by the transformers era[^0]?
+What businesses are enabled by this new era[^0]?
 
 It's clear that we have new tools at our disposal. What those tools are good for, what business models can produce, scale, and capture value from them—much less clear.
 
