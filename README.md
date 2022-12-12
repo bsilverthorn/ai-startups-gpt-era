@@ -39,6 +39,7 @@ Software that writes the software:
 | [Mutable AI](https://mutable.ai/) | "build fast with production quality using AI" | |
 | [Tabnine](https://www.tabnine.com/) | "code faster with whole-line & full-function code completions" | |
 | [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
+| [Codeium](https://www.codeium.com/) | "autocomplete [code] faster than thought" | from [Exafunction](https://www.exafunction.com/) |
 
 Enterprise Knowledge
 --------------------
