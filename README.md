@@ -56,7 +56,7 @@ Software that writes the software:
 Enterprise Knowledge
 --------------------
 
-Observe, orient, decide:
+Observe, orient, decide, and/or act:
 
 | Name | Value | Notes |
 | --- | --- | --- |
@@ -70,15 +70,16 @@ Observe, orient, decide:
 | [Fireflies.ai](https://fireflies.ai/) | "automate your meeting notes" | |
 | [Otter.ai](https://otter.ai/) | "capture and share insights from your meetings" | |
 | [Observe.ai](https://www.observe.ai/) | "complete visibility into every customer interaction across channels" | |
+| [Arena](https://www.arena-ai.com/) | "make high frequency, critical path decisions fully autonomous" | Aug 2022 [announced](https://blog.arena-ai.com/32-mm-to-help-enterprises-make-high-frequency-decisions-autonomously/) $32M A |
 
-Enterprise Automation
----------------------
+Customer Support
+----------------
 
 Act:
 
 | Name | Value | Notes |
 | --- | --- | --- |
-| [Arena](https://www.arena-ai.com/) | "make high frequency, critical path decisions fully autonomous" | Aug 2022 [announced](https://blog.arena-ai.com/32-mm-to-help-enterprises-make-high-frequency-decisions-autonomously/) $32M A |
+| [PolyAI](https://poly.ai/) | "AI your customers want to talk to" | Sep 2021 [announced](https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/) $14M B |
 
 Sales
 -----
