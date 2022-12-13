@@ -37,6 +37,9 @@ It's good to be king:
 | [Facet](https://facet.ai/) | "automates the most repetitive parts of your [image editing] workflow" | also [prompt.ist](https://prompt.ist/) |
 | [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc. |
 | [Deepbrain AI](https://deepbrainai.io/) | "enterprise ready virtual humans and avatars" | |
+| [Rosebud](https://www.rosebud.ai/) | "get the exact visual you need" | |
+| [ZMO.ai](https://www.zmo.ai/) | "object removal tools, art generation, image editing, and more" | May 2022 [announced](https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/) $8M A, focused on fashion e-commerce |
+| [Beautiful.ai](https://www.beautiful.ai/) | "presentation software that designs for you" | [raised](https://www.beautiful.ai/blog/series-b-announcement) $11M B back in 2018 |
 
 Software Development
 --------------------
