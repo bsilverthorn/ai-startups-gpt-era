@@ -113,6 +113,7 @@ Model builders and tool ecosystems:
 | [Hugging Face](https://huggingface.co/) | AI tools and GitHub-esque open-source community | 🤗 |
 | [Explosion](https://explosion.ai/) | "developer tools for Artificial Intelligence and Natural Language Processing" | |
 | [Deepgram](https://deepgram.com/) | "transcribe real-world audio with an API call" | Nov 2022 [announced](https://blog.deepgram.com/deepgram-72-million-series-b-defines-future-of-ai-speech-understanding/) $72M B |
+| [Cohere](https://cohere.ai/) | "harness the power of language understanding" | [in-house](https://txt.cohere.ai/multilingual/) model building |
 
 (Keeping this category sparse. There are many suppliers of outsourced "heavy lifting" that don't really affect the direction of the space.)
 
