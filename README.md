@@ -179,5 +179,10 @@ Mysterious machines:
 | [Inflection](https://inflection.ai/) | "fundamentally redefine human-machine interaction" | Reid Hoffman, Mustafa Suleyman et al. |
 | Keen Technologies | "AGI" | John Carmack; [announced Oct 2022](https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/) |
 
+Other Lists
+-----------
+
+- https://github.com/csteinmetz1/ai-audio-startups
+
 [^0]: You might call it something else, but you know what I mean.
 [^1]: If you believe Steve Blank.
