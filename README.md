@@ -151,6 +151,7 @@ Aren't there more domains than this?
 | --- | --- | --- |
 | [Harvey](https://harvey.ai/) | AI lawyer | Gabriel Pereyra et al. |
 | [DoNotPay](https://donotpay.com/) | "the world's first robot lawyer" | founded in 2015 but has [prominent GPT-3 demos](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot) |
+| [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 
 Quasi-Academic
 --------------
