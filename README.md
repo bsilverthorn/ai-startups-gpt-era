@@ -42,6 +42,8 @@ It's good to be king:
 | [Beautiful.ai](https://www.beautiful.ai/) | "presentation software that designs for you" | [raised](https://www.beautiful.ai/blog/series-b-announcement) $11M B back in 2018 |
 | [PhotoRoom](https://www.photoroom.com/) | "magic photo studio" to "create professional designs" | Nov 2022 [announced](https://techcrunch.com/2022/11/07/after-40-million-app-downloads-photoroom-raises-19-million/) $19M A; "with a text prompt… generate a marketing product photo based on your object" |
 | [Waymark](https://waymark.com/) | "boost local sales with unbelievably easy video" | launched 2017 but seems to qualify |
+| [Anything World](https://anything.world/) | "build interactive 3D experiences up to 40% faster" | |
+| [Imagen](https://imagen-ai.com/) | "edit photos and automate post-production" | Dec 2022 [announced](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/) $30M round |
 
 Software Development
 --------------------
@@ -74,6 +76,7 @@ Observe, orient, decide, and/or act:
 | [Observe.ai](https://www.observe.ai/) | "complete visibility into every customer interaction across channels" | |
 | [Arena](https://www.arena-ai.com/) | "make high frequency, critical path decisions fully autonomous" | Aug 2022 [announced](https://blog.arena-ai.com/32-mm-to-help-enterprises-make-high-frequency-decisions-autonomously/) $32M A |
 | [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
+| [Sana](https://www.sanalabs.com/) | "share knowledge, learn fast, automate admin" | Dec 2022 [announced](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/) $34M B |
 
 Customer Support
 ----------------
