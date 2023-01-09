@@ -41,6 +41,7 @@ It's good to be king:
 | [ZMO.ai](https://www.zmo.ai/) | "object removal tools, art generation, image editing, and more" | May 2022 [announced](https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/) $8M A, focused on fashion e-commerce |
 | [Beautiful.ai](https://www.beautiful.ai/) | "presentation software that designs for you" | [raised](https://www.beautiful.ai/blog/series-b-announcement) $11M B back in 2018 |
 | [PhotoRoom](https://www.photoroom.com/) | "magic photo studio" to "create professional designs" | Nov 2022 [announced](https://techcrunch.com/2022/11/07/after-40-million-app-downloads-photoroom-raises-19-million/) $19M A; "with a text prompt… generate a marketing product photo based on your object" |
+| [Waymark](https://waymark.com/) | "boost local sales with unbelievably easy video" | launched 2017 but seems to qualify |
 
 Software Development
 --------------------
