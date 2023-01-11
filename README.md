@@ -77,6 +77,7 @@ Observe, orient, decide, and/or act:
 | [Arena](https://www.arena-ai.com/) | "make high frequency, critical path decisions fully autonomous" | Aug 2022 [announced](https://blog.arena-ai.com/32-mm-to-help-enterprises-make-high-frequency-decisions-autonomously/) $32M A |
 | [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
 | [Sana](https://www.sanalabs.com/) | "share knowledge, learn fast, automate admin" | Dec 2022 [announced](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/) $34M B |
+| [Seek AI](https://www.seek.ai/) | "ask your data anything" | Jan 2023 [announced](https://www.seek.ai/press-01-11-23) $7.5M seed |
 
 Customer Support
 ----------------
