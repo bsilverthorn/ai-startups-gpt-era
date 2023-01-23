@@ -45,6 +45,7 @@ It's good to be king:
 | [Waymark](https://waymark.com/) | "boost local sales with unbelievably easy video" | launched 2017 but seems to qualify |
 | [Anything World](https://anything.world/) | "build interactive 3D experiences up to 40% faster" | |
 | [Imagen](https://imagen-ai.com/) | "edit photos and automate post-production" | Dec 2022 [announced](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/) $30M round |
+| [daydrm.ai](https://www.daydrm.ai/) | "AI tool for creative advertising ideas" | |
 
 Software Development
 --------------------
@@ -57,6 +58,8 @@ Software that writes the software:
 | [Tabnine](https://www.tabnine.com/) | "code faster with whole-line & full-function code completions" | |
 | [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
 | [Codeium](https://www.codeium.com/) | "autocomplete [code] faster than thought" | from [Exafunction](https://www.exafunction.com/) |
+| [Cursor](https://www.cursor.so/) | "write code effortlessly using Cursor's AI source editor" | |
+| [Vivid](https://www.vivid.lol/) | "click on your app, edit with AI" | |
 
 Enterprise Knowledge
 --------------------
