@@ -12,9 +12,10 @@ them. Editorial judgment has been applied to (try to) exclude `.ai` rebrands,
 old-fashioned SaaS+ML, and so forth. It also omits robotics (unclear impact
 IMO), biotech (outside my expertise), pure infrastructure (selling compute is
 selling compute), and silicon (ditto). It omits side projects, research
-collectives, academic demos, etc. It applies a vague Wikipedia-style notability
-threshold. **Incomplete and subject to change.** File an issue if you want
-something fixed.
+collectives, academic demos, etc. Focused on semi-actual businesses, e.g.,
+applies a vague Wikipedia-style notability threshold, ignores most Product Hunt
+MVPs. **Incomplete and subject to change.** File an issue if you want something
+fixed.
 
 Content Generation
 ------------------
