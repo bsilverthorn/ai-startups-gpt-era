@@ -33,7 +33,7 @@ It's good to be king:
 | [Moonbeam](https://www.gomoonbeam.com/) | "help you write essays, stories, articles, blogs, and other long form content" | |
 | [Synthesia](https://www.synthesia.io/) | "create videos from plain text in minutes" | |
 | [Midjourney](https://www.midjourney.com/) | text-to-image / "expanding the imaginative powers of the human species" | self-funded |
-| [AI21labs](https://www.ai21.com/) | "empower [humans] to be better [at] writing and reading" | Jul 2022 [announced](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/) $64M B |
+| [AI21 Labs](https://www.ai21.com/) | "empower [humans] to be better [at] writing and reading" | Jul 2022 [announced](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/) $64M B |
 | [Descript](https://www.descript.com/) | "[edit](https://www.theinformation.com/articles/this-time-is-really-really-different-the-early-adopters-guide-to-the-ingenious-uncanny-slightly-terrifying-world-of-generative-ai) audio and video as you would text" | |
 | [Facet](https://facet.ai/) | "automates the most repetitive parts of your [image editing] workflow" | also [prompt.ist](https://prompt.ist/) |
 | [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc. |
