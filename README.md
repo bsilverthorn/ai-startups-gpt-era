@@ -46,6 +46,8 @@ It's good to be king:
 | [Anything World](https://anything.world/) | "build interactive 3D experiences up to 40% faster" | |
 | [Imagen](https://imagen-ai.com/) | "edit photos and automate post-production" | Dec 2022 [announced](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/) $30M round |
 | [daydrm.ai](https://www.daydrm.ai/) | "AI tool for creative advertising ideas" | |
+| [Scenario](https://www.scenario.gg/) | "AI-generated game assets" | Jan 2023 [announced](https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/) $6M seed |
+| [Poly](https://withpoly.com/) | "generate 3D design assets in seconds" | Jan 2023 [announced](https://www.finsmes.com/2023/01/poly-raises-4m-in-seed-funding.html) $4M seed |
 
 Software Development
 --------------------
@@ -82,6 +84,7 @@ Observe, orient, decide, and/or act:
 | [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
 | [Sana](https://www.sanalabs.com/) | "share knowledge, learn fast, automate admin" | Dec 2022 [announced](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/) $34M B |
 | [Seek AI](https://www.seek.ai/) | "ask your data anything" | Jan 2023 [announced](https://www.seek.ai/press-01-11-23) $7.5M seed |
+| [Supernormal](https://supernormal.com/) | "create amazing meeting notes with AI" | Jan 2023 [announced](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/) $10M round |
 
 Customer Support
 ----------------
