@@ -48,6 +48,9 @@ It's good to be king:
 | [daydrm.ai](https://www.daydrm.ai/) | "AI tool for creative advertising ideas" | |
 | [Scenario](https://www.scenario.gg/) | "AI-generated game assets" | Jan 2023 [announced](https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/) $6M seed |
 | [Poly](https://withpoly.com/) | "generate 3D design assets in seconds" | Jan 2023 [announced](https://www.finsmes.com/2023/01/poly-raises-4m-in-seed-funding.html) $4M seed |
+| [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
+| [D-ID](https://www.d-id.com/) | "customized videos featuring talking avatars" | |
+| [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
 
 Software Development
 --------------------
@@ -85,6 +88,7 @@ Observe, orient, decide, and/or act:
 | [Sana](https://www.sanalabs.com/) | "share knowledge, learn fast, automate admin" | Dec 2022 [announced](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/) $34M B |
 | [Seek AI](https://www.seek.ai/) | "ask your data anything" | Jan 2023 [announced](https://www.seek.ai/press-01-11-23) $7.5M seed |
 | [Supernormal](https://supernormal.com/) | "create amazing meeting notes with AI" | Jan 2023 [announced](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/) $10M round |
+| [Broadcast](https://www.withbroadcast.com/) | "stop wasting time manually writing weekly updates" | |
 
 Customer Support
 ----------------
