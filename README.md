@@ -52,8 +52,8 @@ It's good to be king:
 | [D-ID](https://www.d-id.com/) | "customized videos featuring talking avatars" | |
 | [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
 
-Software Development
---------------------
+Software Development & Design
+-----------------------------
 
 Software that writes the software:
 
@@ -65,6 +65,8 @@ Software that writes the software:
 | [Codeium](https://www.codeium.com/) | "autocomplete [code] faster than thought" | from [Exafunction](https://www.exafunction.com/) |
 | [Cursor](https://www.cursor.so/) | "write code effortlessly using Cursor's AI source editor" | |
 | [Vivid](https://www.vivid.lol/) | "click on your app, edit with AI" | |
+| [Diagram](https://diagram.com/) | "magical new ways to design products [in Figma]" | May 2022 [announced](https://blog.diagram.com/p/diagrams-3m-seed); funding also [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) from OpenAI |
+| [qqbot.dev](https://marketplace.visualstudio.com/items?itemName=qqbot.qqbot) | "chat with your codebase" | closed alpha; Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 
 Enterprise Knowledge
 --------------------
@@ -153,6 +155,7 @@ Imperfect substitution:
 | --- | --- | --- |
 | [Replika](https://replika.ai/) | "ready to chat when you need an empathetic friend" | |
 | [Character.AI](https://character.ai) | "a unique social network that lets you talk with bots" | Noam Shazeer, Daniel De Freitas, et al. |
+| [Speak](https://www.speak.com/) | "get real conversational practice without needing a live tutor" | Nov 2022 [announced](https://www.speak.com/blog/speak-announces-27m-series-b-led-by-openai-startup-fund) $27M B led by OpenAI |
 
 Domain-Specific
 ---------------
@@ -164,6 +167,16 @@ Aren't there more domains than this?
 | [Harvey](https://harvey.ai/) | AI lawyer | Gabriel Pereyra et al. |
 | [DoNotPay](https://donotpay.com/) | "the world's first robot lawyer" | founded in 2015 but has [prominent GPT-3 demos](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot) |
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
+| [Kick](https://kick.co/) | "self-driving bookkeeping" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
+
+Other
+-----
+
+Markets in everything:
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Milo](https://www.joinmilo.com/) | "don't send it to mom, send [parenting tasks] to Milo" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 
 Quasi-Academic
 --------------
@@ -196,6 +209,7 @@ Mysterious machines:
 | --- | --- | --- |
 | [Inflection](https://inflection.ai/) | "fundamentally redefine human-machine interaction" | Reid Hoffman, Mustafa Suleyman et al. |
 | Keen Technologies | "AGI" | John Carmack; [announced Oct 2022](https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/) |
+| [Anysphere](https://anysphere.co/) | "fast and observable AI tools for professionals" | recent pivot from [a messaging product](https://news.ycombinator.com/item?id=32464619)?; Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 
 Other Lists
 -----------
