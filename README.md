@@ -110,7 +110,7 @@ This list will grow:
 | --- | --- | --- |
 | [SellScale](https://www.sellscale.com/) | "personalize [outbound sales] outreach at scale" | Dec 2022 [announced](https://www.sellscale.com/post/sellscale-raises-3-4-million-to-give-ai-superpowers-to-sales-teams) $3.4M seed |
 
-Personal Productivity
+Personal Search & Productivity
 ---------------------
 
 AutoZettelkasten:
@@ -120,6 +120,7 @@ AutoZettelkasten:
 | [Oogway](https://www.oogway.ai/) | "smartest productivity app you will ever need" | |
 | [Mem](https://get.mem.ai/) | "amplify your creativity, automate the mundane, and stay organized automatically" | Nov 2022 [announced](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/) $23.5M led by OpenAI |
 | [Rewind](https://www.rewind.ai/) | "the search engine for your life" | Dan Siroker; Nov 2022 [announced](https://a16z.com/2022/11/01/investing-in-rewind/) $10M from a16z |
+| [Perplexity AI](https://www.perplexity.ai/) | "[the world’s first conversational search engine](https://twitter.com/perplexity_ai/status/1616120452338036736)" | plus [other stuff](https://www.perplexity.ai/sql) |
 
 AI Technology
 -------------
