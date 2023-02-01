@@ -177,6 +177,7 @@ Markets in everything:
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Milo](https://www.joinmilo.com/) | "don't send it to mom, send [parenting tasks] to Milo" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
+| [Empathy](https://www.empathy.com/) | "comprehensive support for navigating grief" | Sep 2021 [reported](https://www.empathy.com/blog/a-new-chapter-in-supporting-bereaved-families-empathys-series-a) $30M A; Feb 2023 [press](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/) on obit generator |
 
 Quasi-Academic
 --------------
@@ -199,6 +200,7 @@ Pixie dust with potential:
 | --- | --- | --- |
 | [GitHub](https://github.com/) | copilot | because copilot |
 | [Notion](https://www.notion.so/) | "[generate](https://www.notion.so/product/ai) any type of content" | |
+| [Intercom](https://www.intercom.com) | "4 new battle-tested AI [features](https://twitter.com/Padday/status/1620459752848527362)" | some interesting stuff here; does it work? |
 
 Stealth
 -------
