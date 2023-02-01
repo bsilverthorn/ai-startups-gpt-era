@@ -169,6 +169,7 @@ Aren't there more domains than this?
 | [DoNotPay](https://donotpay.com/) | "the world's first robot lawyer" | founded in 2015 but has [prominent GPT-3 demos](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot) |
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 | [Kick](https://kick.co/) | "self-driving bookkeeping" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
+| [Flawless](https://www.flawlessai.com/) | "pioneering the generative AI revolution in filmmaking" | some press, e.g., Dec 2022 [in LA Times](https://www.latimes.com/entertainment-arts/business/story/2022-12-19/the-next-frontier-in-moviemaking-ai-edits) |
 
 Other
 -----
