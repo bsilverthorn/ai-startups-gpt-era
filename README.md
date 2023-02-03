@@ -51,6 +51,7 @@ It's good to be king:
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
 | [D-ID](https://www.d-id.com/) | "customized videos featuring talking avatars" | |
 | [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
+| [Deep Voodoo](https://www.deepvoodoo.com/) | "[professional deepfake studio for creators](https://www.deepvoodoo.com/press/trey-parker-and-matt-stones-deep-fake-company-deep-voodoo-announces-20-million-investment)" | Trey Parker and Matt Stone; Dec 2022 [announced](https://www.deepvoodoo.com/press/trey-parker-and-matt-stones-deep-fake-company-deep-voodoo-announces-20-million-investment) $20M round |
 
 Software Development & Design
 -----------------------------
