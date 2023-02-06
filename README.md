@@ -110,6 +110,7 @@ This list will grow:
 | Name | Value | Notes |
 | --- | --- | --- |
 | [SellScale](https://www.sellscale.com/) | "personalize [outbound sales] outreach at scale" | Dec 2022 [announced](https://www.sellscale.com/post/sellscale-raises-3-4-million-to-give-ai-superpowers-to-sales-teams) $3.4M seed |
+| [Lavender](https://www.lavender.ai/) | "AI sales email coach" | Feb 2023 [announced](https://techcrunch.com/2023/02/02/lavender-lands-13-2m-for-its-ai-powered-email-marketing-engine/) $13.2M A |
 
 Personal Search & Productivity
 ---------------------
