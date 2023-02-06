@@ -101,6 +101,7 @@ Act:
 | Name | Value | Notes |
 | --- | --- | --- |
 | [PolyAI](https://poly.ai/) | "AI your customers want to talk to" | Sep 2021 [announced](https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/) $14M B |
+| [Defog](https://defog.ai/) | "let your users ask free form data questions" | YC W23 |
 
 Sales
 -----
