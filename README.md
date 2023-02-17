@@ -7,8 +7,8 @@ It's clear that we have new tools at our disposal. What those tools are good
 for, what business models can produce, scale, and capture value from them—much
 less clear.
 
-Good news! That's what startups are for[^1]. Here is a semi-curated list of
-them. Editorial judgment has been applied to (try to) exclude `.ai` rebrands,
+Good news! That's what startups are for. Here is a semi-curated list of them.
+Editorial judgment has been applied to (try to) exclude `.ai` rebrands,
 old-fashioned SaaS+ML, and so forth. It also omits robotics (unclear impact
 IMO), biotech (outside my expertise), pure infrastructure (selling compute is
 selling compute), and silicon (ditto). It omits side projects, research
@@ -102,6 +102,7 @@ Act:
 | --- | --- | --- |
 | [PolyAI](https://poly.ai/) | "AI your customers want to talk to" | Sep 2021 [announced](https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/) $14M B |
 | [Defog](https://defog.ai/) | "let your users ask free form data questions" | YC W23 |
+| [Forethought](https://forethought.ai/) | "[lower] support costs while providing top-tier service" | Dec 2021 [announced](https://forethought.ai/blog/forethought-raises-65-million-series-c/) $65M C |
 
 Sales
 -----
@@ -224,4 +225,3 @@ Other Lists
 - https://github.com/csteinmetz1/ai-audio-startups
 
 [^0]: You might call it something else, but you know what I mean.
-[^1]: If you believe Steve Blank.
