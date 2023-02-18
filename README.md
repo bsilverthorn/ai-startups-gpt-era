@@ -103,6 +103,8 @@ Act:
 | [PolyAI](https://poly.ai/) | "AI your customers want to talk to" | Sep 2021 [announced](https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/) $14M B |
 | [Defog](https://defog.ai/) | "let your users ask free form data questions" | YC W23 |
 | [Forethought](https://forethought.ai/) | "[lower] support costs while providing top-tier service" | Dec 2021 [announced](https://forethought.ai/blog/forethought-raises-65-million-series-c/) $65M C |
+| [Mendable](https://www.mendable.ai/) | "answer developer questions automatically" | YC S22 |
+| [Rezolve](https://rezolve.ai/) | "transform employee experience with instant support" | employee == internal customer |
 
 Sales
 -----
@@ -174,6 +176,7 @@ Aren't there more domains than this?
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 | [Kick](https://kick.co/) | "self-driving bookkeeping" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 | [Flawless](https://www.flawlessai.com/) | "pioneering the generative AI revolution in filmmaking" | some press, e.g., Dec 2022 [in LA Times](https://www.latimes.com/entertainment-arts/business/story/2022-12-19/the-next-frontier-in-moviemaking-ai-edits) |
+| [Claid](https://claid.ai/) | "improve user-generated content... and boost conversions" | "by Let's Enhance" |
 
 Other
 -----
