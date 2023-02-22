@@ -19,8 +19,8 @@ applies a vague Wikipedia-style notability threshold and ignores most Product
 Hunt MVPs. **Incomplete and subject to change.** File an issue if you want
 something added or fixed.
 
-Primary domain = text
----------------------
+Primary mode = text
+-------------------
 
 ### Write more, better general-purpose text
 
@@ -188,8 +188,8 @@ Primary domain = text
 | --- | --- | --- |
 | [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
 
-Primary domain = image
-----------------------
+Primary mode = image
+--------------------
 
 ### Easily synthesize and/or manipulate general-purpose images
 
@@ -220,8 +220,8 @@ Primary domain = image
 | [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
 | [Rosebud](https://www.rosebud.ai/) | "get the exact visual you need" | |
 
-Primary domain = video
-----------------------
+Primary mode = video
+--------------------
 
 ### Easily synthesize and/or manipulate general-purpose video
 
@@ -241,8 +241,8 @@ Primary domain = video
 | [Waymark](https://waymark.com/) | "boost local sales with unbelievably easy video" | launched 2017 but seems to qualify |
 | [Flawless](https://www.flawlessai.com/) | "pioneering the generative AI revolution in filmmaking" | some press, e.g., Dec 2022 [in LA Times](https://www.latimes.com/entertainment-arts/business/story/2022-12-19/the-next-frontier-in-moviemaking-ai-edits) |
 
-Primary domain = audio
-----------------------
+Primary mode = audio
+--------------------
 
 ### Easily synthesize and/or manipulate audio
 
@@ -263,8 +263,8 @@ Primary domain = audio
 | --- | --- | --- |
 | [Speak](https://www.speak.com/) | "get real conversational practice without needing a live tutor" | Nov 2022 [announced](https://www.speak.com/blog/speak-announces-27m-series-b-led-by-openai-startup-fund) $27M B led by OpenAI |
 
-Primary domain = 3D model
--------------------------
+Primary mode = 3D model
+-----------------------
 
 ### Build 3D models more quickly
 
@@ -273,8 +273,8 @@ Primary domain = 3D model
 | [Anything World](https://anything.world/) | "build interactive 3D experiences up to 40% faster" | |
 | [Poly](https://withpoly.com/) | "generate 3D design assets in seconds" | Jan 2023 [announced](https://www.finsmes.com/2023/01/poly-raises-4m-in-seed-funding.html) $4M seed |
 
-Primary domain = structured artifact, other software, etc.
-----------------------------------------------------------
+Primary mode = structured content, other software, etc.
+-------------------------------------------------------
 
 ### Write more, better general-purpose structured documents
 
