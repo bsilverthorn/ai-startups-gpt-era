@@ -7,18 +7,17 @@ It's clear that we have new tools at our disposal. What those tools are good
 for, what business models can produce, scale, and capture value from them—much
 less clear.
 
-Good news! That's what startups are for. Here is a semi-curated list of them.
+Good news! That's what startups are for. Here is a semi-curated list of **use
+cases** explored by AI startups.
+
 Editorial judgment has been applied to (try to) exclude `.ai` rebrands,
 old-fashioned SaaS+ML, and so forth. It also omits robotics (unclear impact
 IMO), biotech (outside my expertise), pure infrastructure (selling compute is
-selling compute), and silicon (ditto). It omits side projects, research
+selling compute), and silicon (ditto). It mostly omits side projects, research
 collectives, academic demos, etc. Focused on semi-actual businesses, e.g.,
-applies a vague Wikipedia-style notability threshold, ignores most Product Hunt
-MVPs. **Incomplete and subject to change.** File an issue if you want something
-fixed.
-
-Content Generation
-------------------
+applies a vague Wikipedia-style notability threshold and ignores most Product
+Hunt MVPs. **Incomplete and subject to change.** File an issue if you want
+something added or fixed.
 
 It's good to be king:
 
