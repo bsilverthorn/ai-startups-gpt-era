@@ -115,6 +115,8 @@ Primary domain = text
 
 ### Monitor online content for national security
 
+| Name | Value | Notes |
+| --- | --- | --- |
 | [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
 
 ### Make your salespeople more effective
@@ -164,6 +166,12 @@ Primary domain = text
 | [Replika](https://replika.ai/) | "ready to chat when you need an empathetic friend" | |
 | [Character.AI](https://character.ai) | "a unique social network that lets you talk with bots" | Noam Shazeer, Daniel De Freitas, et al. |
 
+### Make game characters more engaging
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [InWorld](https://www.inworld.ai/) | create characters that "that think, talk, and act for themselves" | |
+
 ### Educate your employees more effectively
 
 | Name | Value | Notes |
@@ -207,12 +215,6 @@ Primary domain = image
 | [Scenario](https://www.scenario.gg/) | "AI-generated game assets" | Jan 2023 [announced](https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/) $6M seed |
 | [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
 | [Rosebud](https://www.rosebud.ai/) | "get the exact visual you need" | |
-
-### Make game characters more engaging
-
-| Name | Value | Notes |
-| --- | --- | --- |
-| [InWorld](https://www.inworld.ai/) | create characters that "that think, talk, and act for themselves" | |
 
 Primary domain = video
 ----------------------
