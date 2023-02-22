@@ -52,12 +52,15 @@ Primary domain = text
 | [Cursor](https://www.cursor.so/) | "write code effortlessly using Cursor's AI source editor" | |
 | [Vivid](https://www.vivid.lol/) | "click on your app, edit with AI" | |
 | [qqbot.dev](https://marketplace.visualstudio.com/items?itemName=qqbot.qqbot) | "chat with your codebase" | closed alpha; Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
+| [Replit Ghostwriter](https://replit.com/site/ghostwriter) | "your partner in code... boost your productivity and creativity" | not an AI startup, but notable; [some reporting](https://www.semafor.com/article/02/15/2023/startup-replit-launches-a-chatgpt-like-bot-for-coders) |
+| [Magic](https://magic.dev/) | "code completion that operates across your repository" | Feb 2023 [announced](https://magic.dev/blog/series-a) $23M A |
 
 ### Make other internal business communication more efficient
 
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Broadcast](https://www.withbroadcast.com/) | "stop wasting time manually writing weekly updates" | |
+| [Beam](https://beamapp.ai/) | "stay on top of work conversations easier and collaborate faster" | messaging app |
 
 ### Gather more, useful customer information
 
@@ -77,6 +80,7 @@ Primary domain = text
 | [Forethought](https://forethought.ai/) | "[lower] support costs while providing top-tier service" | Dec 2021 [announced](https://forethought.ai/blog/forethought-raises-65-million-series-c/) $65M C |
 | [Mendable](https://www.mendable.ai/) | "answer developer questions automatically" | YC S22 |
 | [Intercom](https://www.intercom.com) | "4 new battle-tested AI [features](https://twitter.com/Padday/status/1620459752848527362)" | some interesting stuff here; does it work? |
+| [kapa.ai](https://www.kapa.ai/) | "reduce [developer] support requests with kapa.ai" |
 
 ### Automatically support your employees
 
