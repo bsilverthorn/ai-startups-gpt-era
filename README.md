@@ -130,6 +130,12 @@ Primary modality = text
 | [SellScale](https://www.sellscale.com/) | "personalize [outbound sales] outreach at scale" | Dec 2022 [announced](https://www.sellscale.com/post/sellscale-raises-3-4-million-to-give-ai-superpowers-to-sales-teams) $3.4M seed |
 | [Lavender](https://www.lavender.ai/) | "AI sales email coach" | Feb 2023 [announced](https://techcrunch.com/2023/02/02/lavender-lands-13-2m-for-its-ai-powered-email-marketing-engine/) $13.2M A |
 
+### Make your marketing team more effective
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [MarketMuse](https://www.marketmuse.com/) | "automates content audits and removes the subjectivity of what is or isn’t working" | |
+
 ### Organize your personal information
 
 | Name | Value | Notes |
@@ -137,6 +143,12 @@ Primary modality = text
 | [Oogway](https://www.oogway.ai/) | "smartest productivity app you will ever need" | |
 | [Mem](https://get.mem.ai/) | "amplify your creativity, automate the mundane, and stay organized automatically" | Nov 2022 [announced](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/) $23.5M led by OpenAI |
 | [Rewind](https://www.rewind.ai/) | "the search engine for your life" | Dan Siroker; Nov 2022 [announced](https://a16z.com/2022/11/01/investing-in-rewind/) $10M from a16z |
+
+### Automate your personal communication
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Personal AI](https://www.personal.ai/) | "supercharge your memory and relationships with your own… AI messenger" | |
 
 ### Search the web good
 
@@ -240,6 +252,7 @@ Primary modality = video
 | [Deepbrain AI](https://deepbrainai.io/) | "enterprise ready virtual humans and avatars" | |
 | [Waymark](https://waymark.com/) | "boost local sales with unbelievably easy video" | launched 2017 but seems to qualify |
 | [Flawless](https://www.flawlessai.com/) | "pioneering the generative AI revolution in filmmaking" | some press, e.g., Dec 2022 [in LA Times](https://www.latimes.com/entertainment-arts/business/story/2022-12-19/the-next-frontier-in-moviemaking-ai-edits) |
+| [vidyo.ai](https://vidyo.ai/) | "create social ready short clips from your long videos" | |
 
 Primary modality = audio
 ------------------------
