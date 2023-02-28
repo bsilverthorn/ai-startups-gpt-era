@@ -264,6 +264,12 @@ Primary modality = audio
 | [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc. |
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
 
+### Automatically translate multimedia content
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Dubverse](https://dubverse.ai/) | "make your content multilingual at a click of a button" | |
+
 ### Analyze recordings of human speech
 
 | Name | Value | Notes |
