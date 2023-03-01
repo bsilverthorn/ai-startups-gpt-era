@@ -32,6 +32,7 @@ Primary modality = text
 | [Sudowrite](https://www.sudowrite.com/) | "bust writer’s block with our magical writing AI" | "we [use](https://www.sudowrite.com/FAQ) several variants of GPT-3" |
 | [Moonbeam](https://www.gomoonbeam.com/) | "help you write essays, stories, articles, blogs, and other long form content" | |
 | [AI21 Labs](https://www.ai21.com/) | "empower [humans] to be better [at] writing and reading" | Jul 2022 [announced](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/) $64M B |
+| [Typeface](https://www.typeface.ai/) | "personalized content creation for work" | can also generate images and other types of content; Feb 2023 [announced](https://www.prnewswire.com/news-releases/typeface-emerges-from-stealth-with-a-generative-ai-application-for-enterprise-content-creation-and-65-million-in-funding-301756660.html) $65M raise |
 
 ### Get help writing text in specific verticals
 
