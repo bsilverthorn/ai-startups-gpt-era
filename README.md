@@ -143,6 +143,7 @@ Primary modality = text
 | [Oogway](https://www.oogway.ai/) | "smartest productivity app you will ever need" | |
 | [Mem](https://get.mem.ai/) | "amplify your creativity, automate the mundane, and stay organized automatically" | Nov 2022 [announced](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/) $23.5M led by OpenAI |
 | [Rewind](https://www.rewind.ai/) | "the search engine for your life" | Dan Siroker; Nov 2022 [announced](https://a16z.com/2022/11/01/investing-in-rewind/) $10M from a16z |
+| [mymind](https://mymind.com/) | "remember everything. organize nothing." | |
 
 ### Automate your personal communication
 
@@ -313,6 +314,7 @@ Primary modality = structured content, other software, etc.
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Kick](https://kick.co/) | "self-driving bookkeeping" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
+| [truewind](https://www.truewind.ai/) | "less errors, more transparency, and faster monthly close" | YC W23 |
 
 ### Make business decisions automatically
 
