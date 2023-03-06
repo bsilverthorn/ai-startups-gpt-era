@@ -255,6 +255,7 @@ Primary modality = video
 | [Waymark](https://waymark.com/) | "boost local sales with unbelievably easy video" | launched 2017 but seems to qualify |
 | [Flawless](https://www.flawlessai.com/) | "pioneering the generative AI revolution in filmmaking" | some press, e.g., Dec 2022 [in LA Times](https://www.latimes.com/entertainment-arts/business/story/2022-12-19/the-next-frontier-in-moviemaking-ai-edits) |
 | [vidyo.ai](https://vidyo.ai/) | "create social ready short clips from your long videos" | |
+| [GlossAi](https://glossai.co/) | "upload your existing content and instantly generate… short-form videos" | Feb 2023 [announced](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/) $8M seed |
 
 Primary modality = audio
 ------------------------
