@@ -42,6 +42,7 @@ Primary modality = text
 | [Robin](https://www.robinai.co.uk/) | "Robin’s AI-powered contract editor can transform your legal process" | Feb 2023 [announced](https://tech.eu/2023/02/27/robin-ai-scoops-105-million-for-its-lawyer-in-the-loop-generative-ai-model/) $10.5M raise |
 | [Empathy](https://www.empathy.com/) | "comprehensive support for navigating grief" | Sep 2021 [reported](https://www.empathy.com/blog/a-new-chapter-in-supporting-bereaved-families-empathys-series-a) $30M A; Feb 2023 [press](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/) on obit generator |
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
+| [Rogue](https://www.userogue.com/) | "write responses to Sources Sought, Requests for information, and Requests for Proposals" | |
 
 ### Write code faster or better
 
@@ -83,6 +84,7 @@ Primary modality = text
 | [Mendable](https://www.mendable.ai/) | "answer developer questions automatically" | YC S22 |
 | [Intercom](https://www.intercom.com) | "4 new battle-tested AI [features](https://twitter.com/Padday/status/1620459752848527362)" | some interesting stuff here; does it work? |
 | [kapa.ai](https://www.kapa.ai/) | "reduce [developer] support requests with kapa.ai" |
+| [Yuma](https://yuma.ai/) | "integrates with your Help Desk software to automate response drafting" | |
 
 ### Automatically support your employees
 
@@ -112,6 +114,12 @@ Primary modality = text
 | [Glean](https://www.glean.com/) | "know what your company knows, instantly" | "Glean [uses](https://www.wired.com/story/ai-smarts-big-price-tag/) smaller, less capable AI models" |
 | [Hebbia](https://www.hebbia.ai/) | "make decisions 10X more confidently… with AI-powered insights" | Sep 2022 [announced](https://hebbia.medium.com/hebbia-raises-30-million-led-by-index-ventures-to-launch-the-future-of-search-e80038c05852) $30M A |
 | [Applica](https://www.applica.ai/) | "enables human-level comprehension across your documents" | Aug 2022 [acquired](https://www.snowflake.com/blog/snowflake-to-acquire-applica/) by Snowflake for $175M |
+
+### Extract information from business docs / messages more quickly
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Agolo](https://www.agolo.com/) | "turns even the longest… documents into audience-specific briefings" | |
 
 ### Provide better search tools in your app or site
 
