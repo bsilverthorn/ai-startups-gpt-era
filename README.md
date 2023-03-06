@@ -309,6 +309,7 @@ Primary modality = structured content, other software, etc.
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Diagram](https://diagram.com/) | "magical new ways to design products [in Figma]" | May 2022 [announced](https://blog.diagram.com/p/diagrams-3m-seed); funding also [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) from OpenAI |
+| [Components](https://components.ai/) | "generative components for UI and graphic design" | |
 
 ### Automate your business accounting
 
