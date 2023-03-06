@@ -39,6 +39,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Harvey](https://harvey.ai/) | AI lawyer | Gabriel Pereyra et al. |
+| [Robin](https://www.robinai.co.uk/) | "Robin’s AI-powered contract editor can transform your legal process" | Feb 2023 [announced](https://tech.eu/2023/02/27/robin-ai-scoops-105-million-for-its-lawyer-in-the-loop-generative-ai-model/) $10.5M raise |
 | [Empathy](https://www.empathy.com/) | "comprehensive support for navigating grief" | Sep 2021 [reported](https://www.empathy.com/blog/a-new-chapter-in-supporting-bereaved-families-empathys-series-a) $30M A; Feb 2023 [press](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/) on obit generator |
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 
@@ -170,6 +171,12 @@ Primary modality = text
 | --- | --- | --- |
 | [Milo](https://www.joinmilo.com/) | "don't send it to mom, send [parenting tasks] to Milo" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 | [DoNotPay](https://donotpay.com/) | "the world's first robot lawyer" | founded in 2015 but has [prominent GPT-3 demos](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot) |
+
+### Build custom agents to automate actions
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Fixie](https://www.fixie.ai/) | "build natural language agents that connect to your data [and] talk to APIs" | Feb 2023 [announced](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81) undisclosed raise |
 
 ### Create more, better marketing concepts
 
