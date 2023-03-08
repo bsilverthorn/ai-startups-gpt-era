@@ -57,13 +57,7 @@ Primary modality = text
 | [qqbot.dev](https://marketplace.visualstudio.com/items?itemName=qqbot.qqbot) | "chat with your codebase" | closed alpha; Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 | [Replit Ghostwriter](https://replit.com/site/ghostwriter) | "your partner in code... boost your productivity and creativity" | not an AI startup, but notable; [some reporting](https://www.semafor.com/article/02/15/2023/startup-replit-launches-a-chatgpt-like-bot-for-coders) |
 | [Magic](https://magic.dev/) | "code completion that operates across your repository" | Feb 2023 [announced](https://magic.dev/blog/series-a) $23M A |
-
-### Make other internal business communication more efficient
-
-| Name | Value | Notes |
-| --- | --- | --- |
-| [Broadcast](https://www.withbroadcast.com/) | "stop wasting time manually writing weekly updates" | |
-| [Beam](https://beamapp.ai/) | "stay on top of work conversations easier and collaborate faster" | messaging app |
+| [Codium](https://www.codium.ai/) | "analyzes your code and generates meaningful tests" | != "Codeium" |
 
 ### Gather more, useful customer information
 
@@ -99,6 +93,14 @@ Primary modality = text
 | [Fireflies.ai](https://fireflies.ai/) | "automate your meeting notes" | |
 | [Otter.ai](https://otter.ai/) | "capture and share insights from your meetings" | |
 | [Supernormal](https://supernormal.com/) | "create amazing meeting notes with AI" | Jan 2023 [announced](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/) $10M round |
+
+### Make other internal business communication more efficient
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Broadcast](https://www.withbroadcast.com/) | "stop wasting time manually writing weekly updates" | |
+| [Beam](https://beamapp.ai/) | "stay on top of work conversations easier and collaborate faster" | messaging app |
+| [Stork](https://www.stork.ai/) | "human teams working asynchronously aided by artificial professionals" | |
 
 ### Access internal business data more easily
 
