@@ -123,6 +123,12 @@ Primary modality = text
 | --- | --- | --- |
 | [Agolo](https://www.agolo.com/) | "turns even the longest… documents into audience-specific briefings" | |
 
+### Accelerate hiring
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Hume](https://www.gethume.com/) | "automatically record, transcribe and summarize every candidate interaction" | Jan 2023 [announced](https://www.finsmes.com/2023/01/hume-ai-raises-12-7m-in-series-a-funding.html) $12.7M A |
+
 ### Provide better search tools in your app or site
 
 | Name | Value | Notes |
@@ -301,6 +307,12 @@ Primary modality = audio
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Speak](https://www.speak.com/) | "get real conversational practice without needing a live tutor" | Nov 2022 [announced](https://www.speak.com/blog/speak-announces-27m-series-b-led-by-openai-startup-fund) $27M B led by OpenAI |
+
+### Get feedback on public speaking
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Poised](https://www.poised.com/) | "AI-powered communication coach" | Jun 2021 [announced](https://www.businesswire.com/news/home/20210609005226/en/Poised-Raises-4.5M-Seed-Round-to-Improve-the-World%E2%80%99s-Spoken-Communication) $4.5M seed |
 
 Primary modality = 3D model
 ---------------------------
