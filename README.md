@@ -79,6 +79,7 @@ Primary modality = text
 | [Intercom](https://www.intercom.com) | "4 new battle-tested AI [features](https://twitter.com/Padday/status/1620459752848527362)" | some interesting stuff here; does it work? |
 | [kapa.ai](https://www.kapa.ai/) | "reduce [developer] support requests with kapa.ai" |
 | [Yuma](https://yuma.ai/) | "integrates with your Help Desk software to automate response drafting" | |
+| [Twig](https://www.twig.so/) | "answering complex customer questions and reducing costs by 30%" | |
 
 ### Automatically support your employees
 
@@ -193,6 +194,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Fixie](https://www.fixie.ai/) | "build natural language agents that connect to your data [and] talk to APIs" | Feb 2023 [announced](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81) undisclosed raise |
+| [Maya](https://mayalabs.io/) | "deploy custom software to perform complex tasks, from just English instruction" | |
 
 ### Create more, better marketing concepts
 
