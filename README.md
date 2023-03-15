@@ -67,6 +67,7 @@ Primary modality = text
 | [Enterpret](https://www.enterpret.com/) | "ensure no customer pain goes unnoticed" | |
 | [Observe.ai](https://www.observe.ai/) | "complete visibility into every customer interaction across channels" | |
 | [Anecdote](https://www.anec.app/) | "analyze and summarize the ‘voice of the customer’" | claims to use GPT |
+| [MonkeyLearn](https://monkeylearn.com/) | "clean, label and visualize customer feedback" | |
 
 ### Automatically support your customers / users
 
@@ -80,6 +81,7 @@ Primary modality = text
 | [kapa.ai](https://www.kapa.ai/) | "reduce [developer] support requests with kapa.ai" |
 | [Yuma](https://yuma.ai/) | "integrates with your Help Desk software to automate response drafting" | |
 | [Twig](https://www.twig.so/) | "answering complex customer questions and reducing costs by 30%" | |
+| [Stylo](https://www.askstylo.com/) | "solve tickets faster with Stylo" | |
 
 ### Automatically support your employees
 
