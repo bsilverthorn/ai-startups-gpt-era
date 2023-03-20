@@ -229,6 +229,12 @@ Primary modality = text
 | --- | --- | --- |
 | [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
 
+### Build software integrations more quickly
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Lume](https://www.lume-ai.com/) | "builds your integration pipeline in minutes" | YC W23 |
+
 Primary modality = image
 ------------------------
 
