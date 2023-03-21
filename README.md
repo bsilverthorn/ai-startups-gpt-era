@@ -211,6 +211,12 @@ Primary modality = text
 | [Replika](https://replika.ai/) | "ready to chat when you need an empathetic friend" | |
 | [Character.AI](https://character.ai) | "a unique social network that lets you talk with bots" | Noam Shazeer, Daniel De Freitas, et al. |
 
+### Receive personalized coaching in some area
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Adaptiv](https://www.adaptiv.me/) | "get personalised mentoring… to achieve your career goals" | |
+
 ### Make game characters more engaging
 
 | Name | Value | Notes |
