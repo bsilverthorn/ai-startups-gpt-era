@@ -404,5 +404,6 @@ Other notable entities
 | [Inflection](https://inflection.ai/) | "fundamentally redefine human-machine interaction" | Reid Hoffman, Mustafa Suleyman et al. |
 | Keen Technologies | "AGI" | John Carmack; [announced Oct 2022](https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/) |
 | [Anysphere](https://anysphere.co/) | "fast and observable AI tools for professionals" | recent pivot from [a messaging product](https://news.ycombinator.com/item?id=32464619)?; Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
+| [Minion](https://minion.ai/) | "help bots help humans" (?) | Alex Graveley |
 
 [^0]: You might call it something else, but you know what I mean.
