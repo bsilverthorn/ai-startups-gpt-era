@@ -111,6 +111,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Groupthink](https://app.groupthink.com/) | "add real business insights into group chat in real-time" | FirstParty Labs |
 | [Seek AI](https://www.seek.ai/) | "ask your data anything" | Jan 2023 [announced](https://www.seek.ai/press-01-11-23) $7.5M seed |
+| [Sloped](https://www.sloped.xyz/) | "ask your data questions and generate insights from plain text searches" | |
 
 ### Find internal business docs / messages / information more easily
 
@@ -125,6 +126,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Agolo](https://www.agolo.com/) | "turns even the longest… documents into audience-specific briefings" | |
+| [Filechat](https://www.filechat.io/) | "upload your PDF and start asking questions" | |
 
 ### Accelerate hiring
 
@@ -258,6 +260,7 @@ Primary modality = image
 | [PhotoRoom](https://www.photoroom.com/) | "magic photo studio" to "create professional designs" | Nov 2022 [announced](https://techcrunch.com/2022/11/07/after-40-million-app-downloads-photoroom-raises-19-million/) $19M A; "with a text prompt… generate a marketing product photo based on your object" |
 | [ZMO.ai](https://www.zmo.ai/) | "object removal tools, art generation, image editing, and more" | May 2022 [announced](https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/) $8M A, focused on fashion e-commerce |
 | [Imagen](https://imagen-ai.com/) | "edit photos and automate post-production" | focused on professional photographers (portraits, events, etc.); Dec 2022 [announced](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/) $30M round |
+| [Supermeme](https://www.supermeme.ai/) | "turn text into memes" | |
 
 ### Automatically improve third-party images
 
