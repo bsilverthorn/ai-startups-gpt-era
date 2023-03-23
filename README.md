@@ -192,6 +192,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Milo](https://www.joinmilo.com/) | "don't send it to mom, send [parenting tasks] to Milo" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 | [DoNotPay](https://donotpay.com/) | "the world's first robot lawyer" | founded in 2015 but has [prominent GPT-3 demos](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot) |
+| [TravelU](https://www.travelyourway.xyz/) | "your AI travel assistant right on WhatsApp/SMS" | |
 
 ### Build custom agents to automate actions
 
@@ -359,6 +360,13 @@ Primary modality = structured content, other software, etc.
 | --- | --- | --- |
 | [Diagram](https://diagram.com/) | "magical new ways to design products [in Figma]" | May 2022 [announced](https://blog.diagram.com/p/diagrams-3m-seed); funding also [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) from OpenAI |
 | [Components](https://components.ai/) | "generative components for UI and graphic design" | |
+| [Galileo AI](https://www.usegalileo.ai/) | "delightful, editable UI designs from a simple text description" | |
+
+### Create software or web sites with little/no programming
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Debuild](https://debuild.app/) | "build web apps blazingly fast" | low-code |
 
 ### Automate your business accounting
 
