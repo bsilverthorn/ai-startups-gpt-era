@@ -262,6 +262,7 @@ Primary modality = image
 | [ZMO.ai](https://www.zmo.ai/) | "object removal tools, art generation, image editing, and more" | May 2022 [announced](https://techcrunch.com/2022/05/17/zmo-ai-generate-human-8-million/) $8M A, focused on fashion e-commerce |
 | [Imagen](https://imagen-ai.com/) | "edit photos and automate post-production" | focused on professional photographers (portraits, events, etc.); Dec 2022 [announced](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/) $30M round |
 | [Supermeme](https://www.supermeme.ai/) | "turn text into memes" | |
+| [Stylized](https://www.stylized.ai/) | "studio quality photography, no studio required" | |
 
 ### Automatically improve third-party images
 
