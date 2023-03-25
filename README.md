@@ -58,6 +58,17 @@ Primary modality = text
 | [Replit Ghostwriter](https://replit.com/site/ghostwriter) | "your partner in code... boost your productivity and creativity" | not an AI startup, but notable; [some reporting](https://www.semafor.com/article/02/15/2023/startup-replit-launches-a-chatgpt-like-bot-for-coders) |
 | [Magic](https://magic.dev/) | "code completion that operates across your repository" | Feb 2023 [announced](https://magic.dev/blog/series-a) $23M A |
 | [Codium](https://www.codium.ai/) | "analyzes your code and generates meaningful tests" | != "Codeium" |
+| [Codeball](https://codeball.ai/) | "finds bugs in your pull requests" | |
+| [Grit](https://www.grit.io/) | "code migrations and dependency upgrades on autopilot" | |
+| [Second](https://www.second.dev/) | "use AI developer bots to build common features" | YC W23 |
+
+### Document code faster or better
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Stenography](https://stenography.dev/) | "document entire codebases every time you hit save" | |
+| [Readable](https://readable.so/) | "never write comments again" | |
+| [Mintlify](https://mintlify.com/) | "beautiful documentation that converts users" | see [Writer](https://writer.mintlify.com/) |
 
 ### Gather more, useful customer information
 
