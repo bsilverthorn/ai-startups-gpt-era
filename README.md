@@ -123,6 +123,7 @@ Primary modality = text
 | [Groupthink](https://app.groupthink.com/) | "add real business insights into group chat in real-time" | FirstParty Labs |
 | [Seek AI](https://www.seek.ai/) | "ask your data anything" | Jan 2023 [announced](https://www.seek.ai/press-01-11-23) $7.5M seed |
 | [Sloped](https://www.sloped.xyz/) | "ask your data questions and generate insights from plain text searches" | |
+| [Numerous.ai](https://numerous.ai/) | "ChatGPT right inside your spreadsheet" | |
 
 ### Find internal business docs / messages / information more easily
 
@@ -322,6 +323,7 @@ Primary modality = audio
 | [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc. |
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
 | [Play.ht](https://play.ht/) | "AI powered text to voice generator" | |
+| [Respeecher](https://www.respeecher.com/) | "create speech that's indistinguishable from the original speaker" | |
 
 ### Automatically translate multimedia content
 
@@ -366,6 +368,7 @@ Primary modality = structured content, other software, etc.
 | --- | --- | --- |
 | [Notion](https://www.notion.so/) | "[generate](https://www.notion.so/product/ai) any type of content" | |
 | [Beautiful.ai](https://www.beautiful.ai/) | "presentation software that designs for you" | [raised](https://www.beautiful.ai/blog/series-b-announcement) $11M B back in 2018 |
+| [Gamma](https://gamma.app/) | "from notes to an initial template in under a minute" | |
 
 ### Design interfaces more quickly
 
