@@ -79,6 +79,7 @@ Primary modality = text
 | [Observe.ai](https://www.observe.ai/) | "complete visibility into every customer interaction across channels" | |
 | [Anecdote](https://www.anec.app/) | "analyze and summarize the ‘voice of the customer’" | claims to use GPT |
 | [MonkeyLearn](https://monkeylearn.com/) | "clean, label and visualize customer feedback" | |
+| [AIBrandIntel](https://aibrandintel.com) | "keep track of social media and news mentions in more than 100 languages" | [product experiment](https://menloparklab.com/), but I think it's interesting |
 
 ### Automatically support your customers / users
 
@@ -124,6 +125,7 @@ Primary modality = text
 | [Seek AI](https://www.seek.ai/) | "ask your data anything" | Jan 2023 [announced](https://www.seek.ai/press-01-11-23) $7.5M seed |
 | [Sloped](https://www.sloped.xyz/) | "ask your data questions and generate insights from plain text searches" | |
 | [Numerous.ai](https://numerous.ai/) | "ChatGPT right inside your spreadsheet" | |
+| [Channel](https://www.usechannel.com/) | "ask any data question, in plain English" | |
 
 ### Find internal business docs / messages / information more easily
 
