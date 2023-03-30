@@ -61,6 +61,7 @@ Primary modality = text
 | [Codeball](https://codeball.ai/) | "finds bugs in your pull requests" | |
 | [Grit](https://www.grit.io/) | "code migrations and dependency upgrades on autopilot" | |
 | [Second](https://www.second.dev/) | "use AI developer bots to build common features" | YC W23 |
+| [ExplainDev](https://explain.dev/) | "AI assistant that helps developers interpret code" | |
 
 ### Document code faster or better
 
@@ -233,6 +234,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Adaptiv](https://www.adaptiv.me/) | "get personalised mentoring… to achieve your career goals" | |
+| [InterviewJam](https://interviewjam.io/) | "make interview preparation easy and fun" | |
 
 ### Make game characters more engaging
 
@@ -385,6 +387,7 @@ Primary modality = structured content, other software, etc.
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Debuild](https://debuild.app/) | "build web apps blazingly fast" | low-code |
+| [Bookmark](https://www.bookmark.com/) | "get your business online in minutes" | |
 
 ### Automate your business accounting
 
