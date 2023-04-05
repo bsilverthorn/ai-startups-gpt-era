@@ -70,6 +70,7 @@ Primary modality = text
 | [Stenography](https://stenography.dev/) | "document entire codebases every time you hit save" | |
 | [Readable](https://readable.so/) | "never write comments again" | |
 | [Mintlify](https://mintlify.com/) | "beautiful documentation that converts users" | see [Writer](https://writer.mintlify.com/) |
+| [Bloop](https://bloop.ai/) | "understand codebases with GPT-4 and semantic code search" | partial substitute for documentation? |
 
 ### Gather more, useful customer information
 
@@ -142,6 +143,8 @@ Primary modality = text
 | --- | --- | --- |
 | [Agolo](https://www.agolo.com/) | "turns even the longest… documents into audience-specific briefings" | |
 | [Filechat](https://www.filechat.io/) | "upload your PDF and start asking questions" | |
+| [Visus](https://www.visus.ai/) | "no longer… waste time searching through countless documents" | |
+| [Paxton](https://www.paxton.ai/) | "chat with your knowledge base" | |
 
 ### Accelerate hiring
 
@@ -317,6 +320,7 @@ Primary modality = video
 | [Flawless](https://www.flawlessai.com/) | "pioneering the generative AI revolution in filmmaking" | some press, e.g., Dec 2022 [in LA Times](https://www.latimes.com/entertainment-arts/business/story/2022-12-19/the-next-frontier-in-moviemaking-ai-edits) |
 | [vidyo.ai](https://vidyo.ai/) | "create social ready short clips from your long videos" | |
 | [GlossAi](https://glossai.co/) | "upload your existing content and instantly generate… short-form videos" | Feb 2023 [announced](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/) $8M seed |
+| [Munch](https://www.getmunch.com/) | "extracts the most engaging… clips from your long-form videos" | |
 
 Primary modality = audio
 ------------------------
@@ -335,6 +339,7 @@ Primary modality = audio
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Dubverse](https://dubverse.ai/) | "make your content multilingual at a click of a button" | |
+| [Papercup](https://www.papercup.com/) | "go global with your existing video content using AI dubbing" | |
 
 ### Analyze recordings of human speech
 
@@ -382,6 +387,7 @@ Primary modality = structured content, other software, etc.
 | [Diagram](https://diagram.com/) | "magical new ways to design products [in Figma]" | May 2022 [announced](https://blog.diagram.com/p/diagrams-3m-seed); funding also [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) from OpenAI |
 | [Components](https://components.ai/) | "generative components for UI and graphic design" | |
 | [Galileo AI](https://www.usegalileo.ai/) | "delightful, editable UI designs from a simple text description" | |
+| [Noya](https://www.noya.io/) | "simple blocks magically transform into polished designs" | YC W23 |
 
 ### Create software or web sites with little/no programming
 
