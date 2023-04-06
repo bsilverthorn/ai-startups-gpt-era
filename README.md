@@ -43,6 +43,7 @@ Primary modality = text
 | [Empathy](https://www.empathy.com/) | "comprehensive support for navigating grief" | Sep 2021 [reported](https://www.empathy.com/blog/a-new-chapter-in-supporting-bereaved-families-empathys-series-a) $30M A; Feb 2023 [press](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/) on obit generator |
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 | [Rogue](https://www.userogue.com/) | "write responses to Sources Sought, Requests for information, and Requests for Proposals" | |
+| [EvenUp](https://www.evenuplaw.com/) | "AI-driven demand packages for injury lawyers" |  |
 
 ### Write code faster or better
 
