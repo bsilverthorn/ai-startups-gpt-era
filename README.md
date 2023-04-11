@@ -111,6 +111,7 @@ Primary modality = text
 | [Fireflies.ai](https://fireflies.ai/) | "automate your meeting notes" | |
 | [Otter.ai](https://otter.ai/) | "capture and share insights from your meetings" | |
 | [Supernormal](https://supernormal.com/) | "create amazing meeting notes with AI" | Jan 2023 [announced](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/) $10M round |
+| [Wudpecker](https://www.wudpecker.io/) | "start the meeting with prebuilt templates, end it with high-quality generated notes" | |
 
 ### Make other internal business communication more efficient
 
