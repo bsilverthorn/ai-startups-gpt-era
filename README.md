@@ -397,6 +397,7 @@ Primary modality = structured content, other software, etc.
 | --- | --- | --- |
 | [Debuild](https://debuild.app/) | "build web apps blazingly fast" | low-code |
 | [Bookmark](https://www.bookmark.com/) | "get your business online in minutes" | |
+| [Durable](https://durable.co/) | "build a website in 30 seconds" | refocus from general "start a business" tool? |
 
 ### Automate your business accounting
 
