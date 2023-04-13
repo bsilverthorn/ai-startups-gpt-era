@@ -187,6 +187,7 @@ Primary modality = text
 | [Mem](https://get.mem.ai/) | "amplify your creativity, automate the mundane, and stay organized automatically" | Nov 2022 [announced](https://techcrunch.com/2022/11/10/ai-powered-note-taking-app-mem-raises-23-5m-openai/) $23.5M led by OpenAI |
 | [Rewind](https://www.rewind.ai/) | "the search engine for your life" | Dan Siroker; Nov 2022 [announced](https://a16z.com/2022/11/01/investing-in-rewind/) $10M from a16z |
 | [mymind](https://mymind.com/) | "remember everything. organize nothing." | |
+| [Augment](https://www.augment.co/) | "AI assistant that works everywhere you do" | [TechCrunch](https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/) |
 
 ### Automate your personal communication
 
