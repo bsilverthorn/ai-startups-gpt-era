@@ -33,6 +33,7 @@ Primary modality = text
 | [Moonbeam](https://www.gomoonbeam.com/) | "help you write essays, stories, articles, blogs, and other long form content" | |
 | [AI21 Labs](https://www.ai21.com/) | "empower [humans] to be better [at] writing and reading" | Jul 2022 [announced](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/) $64M B |
 | [Typeface](https://www.typeface.ai/) | "personalized content creation for work" | can also generate images and other types of content; Feb 2023 [announced](https://www.prnewswire.com/news-releases/typeface-emerges-from-stealth-with-a-generative-ai-application-for-enterprise-content-creation-and-65-million-in-funding-301756660.html) $65M raise |
+| [Type](https://type.ai/) | "write remarkably fast" | YC W23 |
 
 ### Get help writing text in specific verticals
 
@@ -44,6 +45,14 @@ Primary modality = text
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 | [Rogue](https://www.userogue.com/) | "write responses to Sources Sought, Requests for information, and Requests for Proposals" | |
 | [EvenUp](https://www.evenuplaw.com/) | "AI-driven demand packages for injury lawyers" |  |
+
+### Produce marketing content more efficiently
+
+(Too many offerings in this category to track. Also significant overlap with "general-purpose text".)
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Speedy](https://speedybrand.io/) | "SEO-optimized digital content" | YC W23 |
 
 ### Write code faster or better
 
@@ -63,8 +72,9 @@ Primary modality = text
 | [Grit](https://www.grit.io/) | "code migrations and dependency upgrades on autopilot" | |
 | [Second](https://www.second.dev/) | "use AI developer bots to build common features" | YC W23 |
 | [ExplainDev](https://explain.dev/) | "AI assistant that helps developers interpret code" | |
+| [CodeComplete](https://codecomplete.ai/) | "coding assistant built for enterprise" | YC W23 |
 
-### Document code faster or better
+### Understand or document code faster or better
 
 | Name | Value | Notes |
 | --- | --- | --- |
@@ -72,6 +82,7 @@ Primary modality = text
 | [Readable](https://readable.so/) | "never write comments again" | |
 | [Mintlify](https://mintlify.com/) | "beautiful documentation that converts users" | see [Writer](https://writer.mintlify.com/) |
 | [Bloop](https://bloop.ai/) | "understand codebases with GPT-4 and semantic code search" | partial substitute for documentation? |
+| [Buildt](https://www.buildt.ai/) | "search and understand large codebases" | YC W23 |
 
 ### Gather more, useful customer information
 
@@ -89,7 +100,6 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [PolyAI](https://poly.ai/) | "AI your customers want to talk to" | Sep 2021 [announced](https://techcrunch.com/2021/09/08/ai-driven-voice-assistant-polyai-raises-14m-round-led-by-khosla-ventures/) $14M B |
-| [Defog](https://defog.ai/) | "let your users ask free form data questions" | YC W23 |
 | [Forethought](https://forethought.ai/) | "[lower] support costs while providing top-tier service" | Dec 2021 [announced](https://forethought.ai/blog/forethought-raises-65-million-series-c/) $65M C |
 | [Mendable](https://www.mendable.ai/) | "answer developer questions automatically" | YC S22 |
 | [Intercom](https://www.intercom.com) | "4 new battle-tested AI [features](https://twitter.com/Padday/status/1620459752848527362)" | some interesting stuff here; does it work? |
@@ -97,6 +107,10 @@ Primary modality = text
 | [Yuma](https://yuma.ai/) | "integrates with your Help Desk software to automate response drafting" | |
 | [Twig](https://www.twig.so/) | "answering complex customer questions and reducing costs by 30%" | |
 | [Stylo](https://www.askstylo.com/) | "solve tickets faster with Stylo" | |
+| [Kyber](https://askkyber.com/) | "ChatGPT for enterprise support" | YC W23; pivoted from insurance vertical? |
+| [Clueso](https://clueso.io/) | "AI-powered help center for your app" | YC W23 |
+| [Parabolic](https://www.growparabolic.com/) | "AI assistant for customer support" | YC W23 |
+| [Inkeep](https://www.inkeep.com/) | "conversational search for your developer product" | YC W23 |
 
 ### Automatically support your employees
 
@@ -131,23 +145,28 @@ Primary modality = text
 | [Sloped](https://www.sloped.xyz/) | "ask your data questions and generate insights from plain text searches" | |
 | [Numerous.ai](https://numerous.ai/) | "ChatGPT right inside your spreadsheet" | |
 | [Channel](https://www.usechannel.com/) | "ask any data question, in plain English" | |
+| [Outerbase](https://outerbase.com/) | "visualize your data… without needing to be a database expert" | YC W23 |
 
-### Find internal business docs / messages / information more easily
+### Let your users access data more easily
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Defog](https://defog.ai/) | "let your users ask free form data questions" | YC W23 |
+| [Baselit](https://baselit.ai/) | "AI data assistant for your users" | YC W23 |
+
+### Find information in business docs / messages more quickly
 
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Glean](https://www.glean.com/) | "know what your company knows, instantly" | "Glean [uses](https://www.wired.com/story/ai-smarts-big-price-tag/) smaller, less capable AI models" |
 | [Hebbia](https://www.hebbia.ai/) | "make decisions 10X more confidently… with AI-powered insights" | Sep 2022 [announced](https://hebbia.medium.com/hebbia-raises-30-million-led-by-index-ventures-to-launch-the-future-of-search-e80038c05852) $30M A |
 | [Applica](https://www.applica.ai/) | "enables human-level comprehension across your documents" | Aug 2022 [acquired](https://www.snowflake.com/blog/snowflake-to-acquire-applica/) by Snowflake for $175M |
-
-### Extract information from business docs / messages more quickly
-
-| Name | Value | Notes |
-| --- | --- | --- |
 | [Agolo](https://www.agolo.com/) | "turns even the longest… documents into audience-specific briefings" | |
 | [Filechat](https://www.filechat.io/) | "upload your PDF and start asking questions" | |
 | [Visus](https://www.visus.ai/) | "no longer… waste time searching through countless documents" | |
 | [Paxton](https://www.paxton.ai/) | "chat with your knowledge base" | |
+| [Gloo](https://www.trygloo.com/) | "connect ChatGPT to your knowledgebase" | YC W23 |
+| [Tennr](https://www.tennr.com/) | "custom large language models that bring… AI to your team and product" | YC W23 |
 
 ### Accelerate hiring
 
@@ -161,24 +180,36 @@ Primary modality = text
 | --- | --- | --- |
 | [Vectara](https://vectara.com/) | "embed the most advanced NLP models for app and site search" | |
 
-### Monitor online content for national security
-
-| Name | Value | Notes |
-| --- | --- | --- |
-| [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
-
 ### Make your salespeople more effective
 
 | Name | Value | Notes |
 | --- | --- | --- |
 | [SellScale](https://www.sellscale.com/) | "personalize [outbound sales] outreach at scale" | Dec 2022 [announced](https://www.sellscale.com/post/sellscale-raises-3-4-million-to-give-ai-superpowers-to-sales-teams) $3.4M seed |
 | [Lavender](https://www.lavender.ai/) | "AI sales email coach" | Feb 2023 [announced](https://techcrunch.com/2023/02/02/lavender-lands-13-2m-for-its-ai-powered-email-marketing-engine/) $13.2M A |
+| [Lightski](https://www.lightski.com/) | "less time updating your CRM—chat with our Slackbot instead" | YC W23 |
+| [Fabius](https://www.fabius.io/) | "improve visibility for sales leaders" | YC W23 |
+| [Persana AI](https://www.persana.ai/) | "your intelligent sales copilot" | YC W23 |
+| [Coldreach](https://coldreach.ai/) | "10x your sales with AI-powered outreach" | YC W23 |
+| [FloWorks](https://www.floworks.ai/) | "AI-powered assistant for your sales team" | YC W23 |
+
+### Make your customer success team more effective
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Syncly](https://syncly.app/) | "analyze your team's communications… to avoid customer churn" | YC W23 |
 
 ### Make your marketing team more effective
 
 | Name | Value | Notes |
 | --- | --- | --- |
 | [MarketMuse](https://www.marketmuse.com/) | "automates content audits and removes the subjectivity of what is or isn’t working" | |
+
+### Make other external business communication more effective
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Avoca](https://www.avoca.ai/) | "AI customer communications platform for your [small] business" | YC W23 |
+| [Sameday](https://www.gosameday.com/) | "close more leads by answering any phone calls you miss" | YC W23 |
 
 ### Organize your personal information
 
@@ -223,6 +254,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Fixie](https://www.fixie.ai/) | "build natural language agents that connect to your data [and] talk to APIs" | Feb 2023 [announced](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81) undisclosed raise |
 | [Maya](https://mayalabs.io/) | "deploy custom software to perform complex tasks, from just English instruction" | |
+| [Waveline](https://waveline.ai/) | "fastest way to use AI in your business" | YC W23 |
 
 ### Create more, better marketing concepts
 
@@ -261,12 +293,23 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
+| [Wild Moose](https://www.wildmoose.ai/) | "solve production incidents in minutes instead of hours" | YC W23 |
+| [Traceloop](https://traceloop.com/) | "improve your system reliability" | YC W23 |
 
-### Build software integrations more quickly
+### Build software integrations and pipelines more quickly
 
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Lume](https://www.lume-ai.com/) | "builds your integration pipeline in minutes" | YC W23 |
+| [Turntable](https://www.turntable.so/) | "create and manage data pipelines… with AI" | YC W23 |
+
+### Sui generis examples in other specific verticals
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
+| [aiFlow](https://www.aiflow.solutions/) | "large language models for PE commercial diligence" | YC W23 |
+| [OfOne](https://www.of.one/) | "automate your drive-thru" | YC W23 |
 
 Primary modality = image
 ------------------------
@@ -287,6 +330,7 @@ Primary modality = image
 | [Imagen](https://imagen-ai.com/) | "edit photos and automate post-production" | focused on professional photographers (portraits, events, etc.); Dec 2022 [announced](https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/) $30M round |
 | [Supermeme](https://www.supermeme.ai/) | "turn text into memes" | |
 | [Stylized](https://www.stylized.ai/) | "studio quality photography, no studio required" | |
+| [Booth.ai](https://www.booth.ai/) | "pro quality product photography with AI" | YC W23 |
 
 ### Automatically improve third-party images
 
@@ -301,6 +345,7 @@ Primary modality = image
 | [Scenario](https://www.scenario.gg/) | "AI-generated game assets" | Jan 2023 [announced](https://techcrunch.com/2023/01/19/scenario-lands-6m-for-its-ai-platform-that-generates-game-art-assets/) $6M seed |
 | [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
 | [Rosebud](https://www.rosebud.ai/) | "get the exact visual you need" | |
+| [Iliad](https://iliad.ai/) | "AI generation system for game designers" | YC W23 |
 
 Primary modality = video
 ------------------------
@@ -313,6 +358,8 @@ Primary modality = video
 | [Synthesia](https://www.synthesia.io/) | "create videos from plain text in minutes" | |
 | [Descript](https://www.descript.com/) | "[edit](https://www.theinformation.com/articles/this-time-is-really-really-different-the-early-adopters-guide-to-the-ingenious-uncanny-slightly-terrifying-world-of-generative-ai) audio and video as you would text" | |
 | [D-ID](https://www.d-id.com/) | "customized videos featuring talking avatars" | |
+| [Decoherence](https://www.decoherence.co/) | "create what can't be filmed" | YC W23 |
+| [Linum](https://www.linum.ai/) | "generate footage and iterate on it" | YC W23 |
 
 ### Easily synthesize and/or manipulate video in specific verticals
 
@@ -335,7 +382,7 @@ Primary modality = audio
 | --- | --- | --- |
 | [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc. |
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
-| [Play.ht](https://play.ht/) | "AI powered text to voice generator" | |
+| [Play.ht](https://play.ht/) | "AI powered text to voice generator" | YC W23 |
 | [Respeecher](https://www.respeecher.com/) | "create speech that's indistinguishable from the original speaker" | |
 
 ### Automatically translate multimedia content
