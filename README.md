@@ -127,6 +127,7 @@ Primary modality = text
 | [Supernormal](https://supernormal.com/) | "create amazing meeting notes with AI" | Jan 2023 [announced](https://techcrunch.com/2023/01/25/supernormal-raises-10m-to-automatically-transcribe-and-summarize-meetings/) $10M round |
 | [Wudpecker](https://www.wudpecker.io/) | "start the meeting with prebuilt templates, end it with high-quality generated notes" | |
 | [Noty.ai](https://noty.ai/) | "transcriptions, action items, summaries, and follow-ups" | |
+| [Avoma](https://www.avoma.com/) | "AI meeting lifecycle assistant" | founded 2017; bit of an AI rebrand? |
 
 ### Make other internal business communication more efficient
 
@@ -167,6 +168,7 @@ Primary modality = text
 | [Paxton](https://www.paxton.ai/) | "chat with your knowledge base" | |
 | [Gloo](https://www.trygloo.com/) | "connect ChatGPT to your knowledgebase" | YC W23 |
 | [Tennr](https://www.tennr.com/) | "custom large language models that bring… AI to your team and product" | YC W23 |
+| [Wisdom](https://wisdomai.com/) | "unlock your content with conversational chat" | product, not company? |
 
 ### Accelerate hiring
 
