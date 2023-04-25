@@ -137,6 +137,7 @@ Primary modality = text
 | [Broadcast](https://www.withbroadcast.com/) | "stop wasting time manually writing weekly updates" | |
 | [Beam](https://beamapp.ai/) | "stay on top of work conversations easier and collaborate faster" | messaging app |
 | [Stork](https://www.stork.ai/) | "human teams working asynchronously aided by artificial professionals" | |
+| [Hypercontext](https://hypercontext.com/) | feature: "reviews so easy they write themselves" | notable for [reviews feature](https://hypercontext.com/features/performance-reviews) |
 
 ### Access internal business data more easily
 
@@ -213,6 +214,12 @@ Primary modality = text
 | --- | --- | --- |
 | [Avoca](https://www.avoca.ai/) | "AI customer communications platform for your [small] business" | YC W23 |
 | [Sameday](https://www.gosameday.com/) | "close more leads by answering any phone calls you miss" | YC W23 |
+
+### Do product management more productively
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Pace](https://askpace.ai/) | "generate ideas in seconds instead of days" | |
 
 ### Organize your personal information
 
@@ -305,6 +312,12 @@ Primary modality = text
 | --- | --- | --- |
 | [Lume](https://www.lume-ai.com/) | "builds your integration pipeline in minutes" | YC W23 |
 | [Turntable](https://www.turntable.so/) | "create and manage data pipelines… with AI" | YC W23 |
+
+### Accelerate your own learning
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Flash Insights](https://getflashinsights.com/) | "get insights from any web page or video" | |
 
 ### Sui generis examples in other specific verticals
 
