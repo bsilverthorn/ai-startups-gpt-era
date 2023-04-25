@@ -413,6 +413,8 @@ Primary modality = audio
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Poised](https://www.poised.com/) | "AI-powered communication coach" | Jun 2021 [announced](https://www.businesswire.com/news/home/20210609005226/en/Poised-Raises-4.5M-Seed-Round-to-Improve-the-World%E2%80%99s-Spoken-Communication) $4.5M seed |
+| [Orai](https://orai.com/) | "practicing your presentations and getting instant feedback" | Feb 2019 [announced](https://techcrunch.com/2019/02/19/orai-seed-funding/) $2.3M seed |
+| [Yoodli](https://app.yoodli.ai/) | "personalized and private feedback from our AI speech coach" | Aug 2022 [announced](https://www.finsmes.com/2022/08/yoodli-raises-6m-in-seed-funding.html) $6M seed |
 
 Primary modality = 3D model
 ---------------------------
