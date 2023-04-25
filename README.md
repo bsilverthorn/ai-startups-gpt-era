@@ -128,6 +128,7 @@ Primary modality = text
 | [Wudpecker](https://www.wudpecker.io/) | "start the meeting with prebuilt templates, end it with high-quality generated notes" | |
 | [Noty.ai](https://noty.ai/) | "transcriptions, action items, summaries, and follow-ups" | |
 | [Avoma](https://www.avoma.com/) | "AI meeting lifecycle assistant" | founded 2017; bit of an AI rebrand? |
+| [Sembly](https://www.sembly.ai/) | "takes meeting notes and generates insights" | |
 
 ### Make other internal business communication more efficient
 
@@ -362,6 +363,7 @@ Primary modality = video
 | [D-ID](https://www.d-id.com/) | "customized videos featuring talking avatars" | |
 | [Decoherence](https://www.decoherence.co/) | "create what can't be filmed" | YC W23 |
 | [Linum](https://www.linum.ai/) | "generate footage and iterate on it" | YC W23 |
+| [Elai](https://elai.io/) | "videos [with a presenter] from just text" | |
 
 ### Easily synthesize and/or manipulate video in specific verticals
 
@@ -378,7 +380,7 @@ Primary modality = video
 Primary modality = audio
 ------------------------
 
-### Easily synthesize and/or manipulate audio
+### Easily synthesize and/or manipulate voice
 
 | Name | Value | Notes |
 | --- | --- | --- |
@@ -386,6 +388,13 @@ Primary modality = audio
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
 | [Play.ht](https://play.ht/) | "AI powered text to voice generator" | YC W23 |
 | [Respeecher](https://www.respeecher.com/) | "create speech that's indistinguishable from the original speaker" | |
+
+### Easily synthesize and/or manipulate music
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Beatoven.ai](https://www.beatoven.ai/) | "compose unique mood-based music to suit every part of your video" | |
+| [Riffusion](https://www.riffusion.com/) | text to music | |
 
 ### Automatically translate multimedia content
 
