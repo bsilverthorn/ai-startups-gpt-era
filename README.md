@@ -207,6 +207,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [MarketMuse](https://www.marketmuse.com/) | "automates content audits and removes the subjectivity of what is or isn’t working" | |
+| [daydrm.ai](https://www.daydrm.ai/) | "AI tool for creative advertising ideas" | |
 
 ### Make other external business communication more effective
 
@@ -266,12 +267,6 @@ Primary modality = text
 | [Maya](https://mayalabs.io/) | "deploy custom software to perform complex tasks, from just English instruction" | |
 | [Waveline](https://waveline.ai/) | "fastest way to use AI in your business" | YC W23 |
 
-### Create more, better marketing concepts
-
-| Name | Value | Notes |
-| --- | --- | --- |
-| [daydrm.ai](https://www.daydrm.ai/) | "AI tool for creative advertising ideas" | |
-
 ### Talk to a virtual friend or character
 
 | Name | Value | Notes |
@@ -297,21 +292,6 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Sana](https://www.sanalabs.com/) | "share knowledge, learn fast, automate admin" | Dec 2022 [announced](https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/) $34M B |
-
-### Automate or augment software ops
-
-| Name | Value | Notes |
-| --- | --- | --- |
-| [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
-| [Wild Moose](https://www.wildmoose.ai/) | "solve production incidents in minutes instead of hours" | YC W23 |
-| [Traceloop](https://traceloop.com/) | "improve your system reliability" | YC W23 |
-
-### Build software integrations and pipelines more quickly
-
-| Name | Value | Notes |
-| --- | --- | --- |
-| [Lume](https://www.lume-ai.com/) | "builds your integration pipeline in minutes" | YC W23 |
-| [Turntable](https://www.turntable.so/) | "create and manage data pipelines… with AI" | YC W23 |
 
 ### Accelerate your own learning
 
@@ -464,6 +444,13 @@ Primary modality = structured content, other software, etc.
 | [Galileo AI](https://www.usegalileo.ai/) | "delightful, editable UI designs from a simple text description" | |
 | [Noya](https://www.noya.io/) | "simple blocks magically transform into polished designs" | YC W23 |
 
+### Build software integrations and pipelines more quickly
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Lume](https://www.lume-ai.com/) | "builds your integration pipeline in minutes" | YC W23 |
+| [Turntable](https://www.turntable.so/) | "create and manage data pipelines… with AI" | YC W23 |
+
 ### Create software or web sites with little/no programming
 
 | Name | Value | Notes |
@@ -471,6 +458,14 @@ Primary modality = structured content, other software, etc.
 | [Debuild](https://debuild.app/) | "build web apps blazingly fast" | low-code |
 | [Bookmark](https://www.bookmark.com/) | "get your business online in minutes" | |
 | [Durable](https://durable.co/) | "build a website in 30 seconds" | refocus from general "start a business" tool? |
+
+### Automate or augment software ops
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Zebrium](https://www.zebrium.com/) | "see the reason [for an outage] without digging through logs" | "[plain language](https://www.zebrium.com/blog/using-gpt-3-with-zebrium-for-plain-language-incident-root-cause-from-logs) incident root cause"; Oct 2022 [acquired](https://sciencelogic.com/press_release/aiops-provider-sciencelogic-acquires-machine-learning-analytics-provider-zebrium-to-provide-at-a-glance-root-cause-visibility) by ScienceLogic |
+| [Wild Moose](https://www.wildmoose.ai/) | "solve production incidents in minutes instead of hours" | YC W23 |
+| [Traceloop](https://traceloop.com/) | "improve your system reliability" | YC W23 |
 
 ### Automate your business accounting
 
