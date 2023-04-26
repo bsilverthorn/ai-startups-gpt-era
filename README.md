@@ -250,6 +250,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Adept](https://www.adept.ai/) | "user types a high-level request and ACT-1 does the rest" | ~~Ashish Vaswani~~ et al. |
 | [Lasso](https://www.getlassoai.com/) | "Robotic Process Automation for Chrome using ChatGPT and computer vision" | YC W23 |
+| [Gnbly](https://gnbly.com/) | "book restaurants reservations, call service providers, etc." | makes voice calls |
 
 ### Delegate domain-specific actions to an online agent
 
