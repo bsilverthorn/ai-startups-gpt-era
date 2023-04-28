@@ -94,6 +94,7 @@ Primary modality = text
 | [Anecdote](https://www.anec.app/) | "analyze and summarize the ‘voice of the customer’" | claims to use GPT |
 | [MonkeyLearn](https://monkeylearn.com/) | "clean, label and visualize customer feedback" | |
 | [AIBrandIntel](https://aibrandintel.com) | "keep track of social media and news mentions in more than 100 languages" | [product experiment](https://menloparklab.com/), but I think it's interesting |
+| [Symbl](https://symbl.ai/) | "unlocks the full potential of human conversations" | |
 
 ### Automatically support your customers / users
 
