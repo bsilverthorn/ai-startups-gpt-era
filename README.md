@@ -268,6 +268,7 @@ Primary modality = text
 | [Fixie](https://www.fixie.ai/) | "build natural language agents that connect to your data [and] talk to APIs" | Feb 2023 [announced](https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81) undisclosed raise |
 | [Maya](https://mayalabs.io/) | "deploy custom software to perform complex tasks, from just English instruction" | |
 | [Waveline](https://waveline.ai/) | "fastest way to use AI in your business" | YC W23 |
+| [Mindverse](https://www.mindverse.ai/) | "virtual AI beings... who listen, move, and respond to your customers" | Apr 2023 [announced](https://techcrunch.com/2023/04/25/ai-assistants-come-to-alibaba-and-a16z-backed-cider/) $10M A "nearing completion" |
 
 ### Talk to a virtual friend or character
 
