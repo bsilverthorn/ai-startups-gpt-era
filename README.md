@@ -34,6 +34,7 @@ Primary modality = text
 | [AI21 Labs](https://www.ai21.com/) | "empower [humans] to be better [at] writing and reading" | Jul 2022 [announced](https://techcrunch.com/2022/07/12/openai-rival-ai21-labs-raises-64m-to-ramp-up-its-ai-powered-language-services/) $64M B |
 | [Typeface](https://www.typeface.ai/) | "personalized content creation for work" | can also generate images and other types of content; Feb 2023 [announced](https://www.prnewswire.com/news-releases/typeface-emerges-from-stealth-with-a-generative-ai-application-for-enterprise-content-creation-and-65-million-in-funding-301756660.html) $65M raise |
 | [Type](https://type.ai/) | "write remarkably fast" | YC W23 |
+| [Reword](https://reword.co/) | "an editor that thinks" | |
 
 ### Get help writing text in specific verticals
 
@@ -53,6 +54,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Speedy](https://speedybrand.io/) | "SEO-optimized digital content" | YC W23 |
+| [Katteb](https://katteb.com/en/) | "create content for your blog and online store" | |
 
 ### Write code faster or better
 
@@ -202,6 +204,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Syncly](https://syncly.app/) | "analyze your team's communications… to avoid customer churn" | YC W23 |
+| [Kaizan](https://kaizan.ai/) | "highlight client health and what will increase revenue" | |
 
 ### Make your marketing team more effective
 
@@ -384,6 +387,7 @@ Primary modality = audio
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
 | [Play.ht](https://play.ht/) | "AI powered text to voice generator" | YC W23 |
 | [Respeecher](https://www.respeecher.com/) | "create speech that's indistinguishable from the original speaker" | |
+| [WellSaid](https://wellsaidlabs.com/) | "create voiceovers from text" | |
 
 ### Easily synthesize and/or manipulate music
 
