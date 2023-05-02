@@ -375,6 +375,7 @@ Primary modality = video
 | [vidyo.ai](https://vidyo.ai/) | "create social ready short clips from your long videos" | |
 | [GlossAi](https://glossai.co/) | "upload your existing content and instantly generate… short-form videos" | Feb 2023 [announced](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/) $8M seed |
 | [Munch](https://www.getmunch.com/) | "extracts the most engaging… clips from your long-form videos" | |
+| [Guidde](https://www.guidde.com/) | "create video documentation 11x faster" | |
 
 Primary modality = audio
 ------------------------
