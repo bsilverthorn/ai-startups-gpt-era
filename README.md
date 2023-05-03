@@ -46,6 +46,7 @@ Primary modality = text
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 | [Rogue](https://www.userogue.com/) | "write responses to Sources Sought, Requests for information, and Requests for Proposals" | |
 | [EvenUp](https://www.evenuplaw.com/) | "AI-driven demand packages for injury lawyers" |  |
+| [Swell AI](https://www.swellai.com/) | "AI writer for podcasters" | |
 
 ### Produce marketing content more efficiently
 
