@@ -56,6 +56,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Speedy](https://speedybrand.io/) | "SEO-optimized digital content" | YC W23 |
 | [Katteb](https://katteb.com/en/) | "create content for your blog and online store" | |
+| [CopyMonkey](https://copymonkey.ai/) | "AI-powered Amazon listing optimization" | |
 
 ### Write code faster or better
 
@@ -98,6 +99,7 @@ Primary modality = text
 | [MonkeyLearn](https://monkeylearn.com/) | "clean, label and visualize customer feedback" | |
 | [AIBrandIntel](https://aibrandintel.com) | "keep track of social media and news mentions in more than 100 languages" | [product experiment](https://menloparklab.com/), but I think it's interesting |
 | [Symbl](https://symbl.ai/) | "unlocks the full potential of human conversations" | |
+| [Kaleido](https://www.kaleido.so/) | "turn user pain points into product decisions" | |
 
 ### Automatically support your customers / users
 
@@ -115,6 +117,7 @@ Primary modality = text
 | [Clueso](https://clueso.io/) | "AI-powered help center for your app" | YC W23 |
 | [Parabolic](https://www.growparabolic.com/) | "AI assistant for customer support" | YC W23 |
 | [Inkeep](https://www.inkeep.com/) | "conversational search for your developer product" | YC W23 |
+| [Sapling](https://sapling.ai/) | "copilot for customer-facing teams" | also for sales and success |
 
 ### Automatically support your employees
 
@@ -199,6 +202,8 @@ Primary modality = text
 | [Persana AI](https://www.persana.ai/) | "your intelligent sales copilot" | YC W23 |
 | [Coldreach](https://coldreach.ai/) | "10x your sales with AI-powered outreach" | YC W23 |
 | [FloWorks](https://www.floworks.ai/) | "AI-powered assistant for your sales team" | YC W23 |
+| [Lyne](https://lyne.ai/) | "personalized cold emails at scale" | |
+| [Traq.ai](https://www.traq.ai/) | "analyzes every call your sales team makes" | |
 
 ### Make your customer success team more effective
 
@@ -213,6 +218,7 @@ Primary modality = text
 | --- | --- | --- |
 | [MarketMuse](https://www.marketmuse.com/) | "automates content audits and removes the subjectivity of what is or isn’t working" | |
 | [daydrm.ai](https://www.daydrm.ai/) | "AI tool for creative advertising ideas" | |
+| [Pencil](https://www.trypencil.com/) | "create new ad variations 10x faster" | |
 
 ### Make other external business communication more effective
 
