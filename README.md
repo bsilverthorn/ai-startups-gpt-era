@@ -525,6 +525,7 @@ Other notable entities
 | [Hugging Face](https://huggingface.co/) | AI tools and GitHub-esque open-source community | 🤗 |
 | [Explosion](https://explosion.ai/) | "developer tools for Artificial Intelligence and Natural Language Processing" | |
 | [Cohere](https://cohere.ai/) | "harness the power of language understanding" | [in-house](https://txt.cohere.ai/multilingual/) model building |
+| [Anthropic](https://www.anthropic.com/) | "working to build reliable, interpretable, and steerable AI systems" | Dario Amodei et al.; AI alignment; funded by SBF pre-disgrace |
 
 ### Quasi-academic
 
@@ -532,7 +533,6 @@ Other notable entities
 | --- | --- | --- |
 | [Conjecture](https://www.conjecture.dev/) | "researchers dedicated to applied, scalable AI alignment research" | |
 | [Generally Intelligent](https://generallyintelligent.com/) | "develop generally capable AI agents with human-like intelligence" | |
-| [Anthropic](https://www.anthropic.com/) | "working to build reliable, interpretable, and steerable AI systems" | Dario Amodei et al.; AI alignment; funded by SBF pre-disgrace |
 | [Ought](https://ought.org/) | "product-driven research lab… for delegating open-ended thinking" | [Elicit](https://elicit.org/) |
 
 ### Still in stealth or I don't quite understand the value prop
