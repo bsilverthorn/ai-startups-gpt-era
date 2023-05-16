@@ -101,6 +101,12 @@ Primary modality = text
 | [Symbl](https://symbl.ai/) | "unlocks the full potential of human conversations" | |
 | [Kaleido](https://www.kaleido.so/) | "turn user pain points into product decisions" | |
 
+### Gather more, useful other business information
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Venturefy](https://www.venturefy.com/) | "verified relationship listings for the world's corporations" | |
+
 ### Automatically support your customers / users
 
 | Name | Value | Notes |
@@ -293,6 +299,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Adaptiv](https://www.adaptiv.me/) | "get personalised mentoring… to achieve your career goals" | |
 | [InterviewJam](https://interviewjam.io/) | "make interview preparation easy and fun" | |
+| [Amorai](https://amorai.co/) | "master the skill of human connection" | Renate Nyborg; Apr 2023 [announced](https://amorai.notion.site/Former-Tinder-CEO-Apple-and-Headspace-executive-Renate-Nyborg-announces-Pre-Seed-funding-round-led--a9dac0b96e12427ca7c600a835b30f85) pre-seed |
 
 ### Make game characters more engaging
 
@@ -319,6 +326,7 @@ Primary modality = text
 | [Primer](https://primer.ai/) | "mission-ready AI for those who protect security and democracy" | |
 | [aiFlow](https://www.aiflow.solutions/) | "large language models for PE commercial diligence" | YC W23 |
 | [OfOne](https://www.of.one/) | "automate your drive-thru" | YC W23 |
+| [July](https://withjuly.com/) | "put your brand deals on autopilot" | |
 
 Primary modality = image
 ------------------------
@@ -383,6 +391,12 @@ Primary modality = video
 | [GlossAi](https://glossai.co/) | "upload your existing content and instantly generate… short-form videos" | Feb 2023 [announced](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/) $8M seed |
 | [Munch](https://www.getmunch.com/) | "extracts the most engaging… clips from your long-form videos" | |
 | [Guidde](https://www.guidde.com/) | "create video documentation 11x faster" | |
+
+### Search through video content more effectively
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Twelve Labs](https://twelvelabs.io/) | "contextual understanding for video" | Dec 2022 [announced](https://techcrunch.com/2022/12/05/twelve-labs-lands-12m-for-ai-that-understands-the-context-of-videos/) $12M seed extension |
 
 Primary modality = audio
 ------------------------
