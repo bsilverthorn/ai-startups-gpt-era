@@ -47,6 +47,7 @@ Primary modality = text
 | [Rogue](https://www.userogue.com/) | "write responses to Sources Sought, Requests for information, and Requests for Proposals" | |
 | [EvenUp](https://www.evenuplaw.com/) | "AI-driven demand packages for injury lawyers" |  |
 | [Swell AI](https://www.swellai.com/) | "AI writer for podcasters" | |
+| [Rezi](https://www.rezi.ai/) | "automate every aspect of creating a hirable resume" | |
 
 ### Produce marketing content more efficiently
 
@@ -190,6 +191,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Hume](https://www.gethume.com/) | "automatically record, transcribe and summarize every candidate interaction" | Jan 2023 [announced](https://www.finsmes.com/2023/01/hume-ai-raises-12-7m-in-series-a-funding.html) $12.7M A |
+| [Impress](https://impress.ai/) | "recruitment automation platform" | |
 
 ### Provide better search tools in your app or site
 
