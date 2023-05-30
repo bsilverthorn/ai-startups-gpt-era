@@ -212,6 +212,7 @@ Primary modality = text
 | [FloWorks](https://www.floworks.ai/) | "AI-powered assistant for your sales team" | YC W23 |
 | [Lyne](https://lyne.ai/) | "personalized cold emails at scale" | |
 | [Traq.ai](https://www.traq.ai/) | "analyzes every call your sales team makes" | |
+| [Regie.ai](https://www.regie.ai/) | "fully personalized sales outreach" | Feb 2023 [announced](https://www.prnewswire.com/news-releases/regieai-closes-a-round-funding-with-additional-6-million-investment-from-khosla-ventures-totaling-20-8-million-301742529.html) $20.8M total funding |
 
 ### Make your customer success team more effective
 
