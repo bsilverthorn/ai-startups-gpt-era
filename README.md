@@ -143,6 +143,7 @@ Primary modality = text
 | [Noty.ai](https://noty.ai/) | "transcriptions, action items, summaries, and follow-ups" | |
 | [Avoma](https://www.avoma.com/) | "AI meeting lifecycle assistant" | founded 2017; bit of an AI rebrand? |
 | [Sembly](https://www.sembly.ai/) | "takes meeting notes and generates insights" | |
+| [Vowel](https://www.vowel.com/) | "host, summarize, search, and share video meetings" | |
 
 ### Make other internal business communication more efficient
 
@@ -213,6 +214,7 @@ Primary modality = text
 | [Lyne](https://lyne.ai/) | "personalized cold emails at scale" | |
 | [Traq.ai](https://www.traq.ai/) | "analyzes every call your sales team makes" | |
 | [Regie.ai](https://www.regie.ai/) | "fully personalized sales outreach" | Feb 2023 [announced](https://www.prnewswire.com/news-releases/regieai-closes-a-round-funding-with-additional-6-million-investment-from-khosla-ventures-totaling-20-8-million-301742529.html) $20.8M total funding |
+| [Bluebirds AI](https://www.bluebirds.ai/) | "find customer contacts that switched jobs" | YC W23 |
 
 ### Make your customer success team more effective
 
@@ -251,6 +253,7 @@ Primary modality = text
 | [Rewind](https://www.rewind.ai/) | "the search engine for your life" | Dan Siroker; Nov 2022 [announced](https://a16z.com/2022/11/01/investing-in-rewind/) $10M from a16z |
 | [mymind](https://mymind.com/) | "remember everything. organize nothing." | |
 | [Augment](https://www.augment.co/) | "AI assistant that works everywhere you do" | [TechCrunch](https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/) |
+| [Tyles](https://tyles.io/) | "insights from 100s of tabs in one doc" | |
 
 ### Automate your personal communication
 
@@ -330,6 +333,7 @@ Primary modality = text
 | [aiFlow](https://www.aiflow.solutions/) | "large language models for PE commercial diligence" | YC W23 |
 | [OfOne](https://www.of.one/) | "automate your drive-thru" | YC W23 |
 | [July](https://withjuly.com/) | "put your brand deals on autopilot" | |
+| [TurbineOne](https://www.turbineone.com/) | "intel analytics without coding" | |
 
 Primary modality = image
 ------------------------
@@ -381,6 +385,7 @@ Primary modality = video
 | [Decoherence](https://www.decoherence.co/) | "create what can't be filmed" | YC W23 |
 | [Linum](https://www.linum.ai/) | "generate footage and iterate on it" | YC W23 |
 | [Elai](https://elai.io/) | "videos [with a presenter] from just text" | |
+| [Roll](https://www.roll.ai/) | "studio-quality remote videos with just your phone" | |
 
 ### Easily synthesize and/or manipulate video in specific verticals
 
@@ -394,6 +399,7 @@ Primary modality = video
 | [GlossAi](https://glossai.co/) | "upload your existing content and instantly generate… short-form videos" | Feb 2023 [announced](https://techcrunch.com/2023/02/07/glossais-generative-highlights-are-a-glimpse-of-contents-crowded-future/) $8M seed |
 | [Munch](https://www.getmunch.com/) | "extracts the most engaging… clips from your long-form videos" | |
 | [Guidde](https://www.guidde.com/) | "create video documentation 11x faster" | |
+| [Dumme](https://dumme.com/) | "turn videos into engaging shorts" | YC W22; Jun 2023 [announced](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/) $3.4M seed |
 
 ### Search through video content more effectively
 
@@ -468,6 +474,7 @@ Primary modality = structured content, other software, etc.
 | [Notion](https://www.notion.so/) | "[generate](https://www.notion.so/product/ai) any type of content" | |
 | [Beautiful.ai](https://www.beautiful.ai/) | "presentation software that designs for you" | [raised](https://www.beautiful.ai/blog/series-b-announcement) $11M B back in 2018 |
 | [Gamma](https://gamma.app/) | "from notes to an initial template in under a minute" | |
+| [Tome](https://tome.app/) | "enabling anyone to tell a compelling story" | Feb 2023 [announced](https://news.crunchbase.com/ai-robotics/interesting-startup-deals-february-bloomx-newswhip/) $43M B |
 
 ### Design interfaces more quickly
 
