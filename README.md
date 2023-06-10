@@ -58,6 +58,7 @@ Primary modality = text
 | [Speedy](https://speedybrand.io/) | "SEO-optimized digital content" | YC W23 |
 | [Katteb](https://katteb.com/en/) | "create content for your blog and online store" | |
 | [CopyMonkey](https://copymonkey.ai/) | "AI-powered Amazon listing optimization" | |
+| [CopySmith](https://copysmith.ai/) | "scale your ecommerce product content creation" | |
 
 ### Write code faster or better
 
@@ -193,6 +194,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Hume](https://www.gethume.com/) | "automatically record, transcribe and summarize every candidate interaction" | Jan 2023 [announced](https://www.finsmes.com/2023/01/hume-ai-raises-12-7m-in-series-a-funding.html) $12.7M A |
 | [Impress](https://impress.ai/) | "recruitment automation platform" | |
+| [Humbird](https://www.humbird.ai/) | "automate your hiring process" | |
 
 ### Provide better search tools in your app or site
 
@@ -254,6 +256,7 @@ Primary modality = text
 | [mymind](https://mymind.com/) | "remember everything. organize nothing." | |
 | [Augment](https://www.augment.co/) | "AI assistant that works everywhere you do" | [TechCrunch](https://techcrunch.com/2022/09/20/augments-personalized-ai-assistant-could-help-you-keep-track-of-a-scattered-digital-life/) |
 | [Tyles](https://tyles.io/) | "insights from 100s of tabs in one doc" | |
+| [Webscape](https://webscape.ai/) | "your AI copilot for the web" | |
 
 ### Automate your personal communication
 
@@ -485,6 +488,12 @@ Primary modality = structured content, other software, etc.
 | [Galileo AI](https://www.usegalileo.ai/) | "delightful, editable UI designs from a simple text description" | |
 | [Noya](https://www.noya.io/) | "simple blocks magically transform into polished designs" | YC W23 |
 
+### Design physical products more quickly
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [Fermat](https://fermat.app/) | "creativity augmented for your design team" | |
+
 ### Build software integrations and pipelines more quickly
 
 | Name | Value | Notes |
@@ -499,6 +508,7 @@ Primary modality = structured content, other software, etc.
 | [Debuild](https://debuild.app/) | "build web apps blazingly fast" | low-code |
 | [Bookmark](https://www.bookmark.com/) | "get your business online in minutes" | |
 | [Durable](https://durable.co/) | "build a website in 30 seconds" | refocus from general "start a business" tool? |
+| [Mixo](https://www.mixo.io/) | "landing pages that require no code or design" | |
 
 ### Automate or augment software ops
 
