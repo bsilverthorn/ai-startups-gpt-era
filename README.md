@@ -328,6 +328,7 @@ Primary modality = text
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Flash Insights](https://getflashinsights.com/) | "get insights from any web page or video" | |
+| [Artisan](https://withartisan.com/) | "personal trainer for self-guided learners" | |
 
 ### Sui generis examples in other specific verticals
 
