@@ -274,9 +274,10 @@ Primary modality = text
 
 | Name | Value | Notes |
 | --- | --- | --- |
-| [Adept](https://www.adept.ai/) | "user types a high-level request and ACT-1 does the rest" | ~~Ashish Vaswani~~ et al. |
+| [Adept](https://www.adept.ai/) | "user types a high-level request and ACT-1 does the rest" | Mar 2023 [announced](https://www.reuters.com/technology/adept-raises-350-mln-series-b-funding-2023-03-14/) $350M B |
 | [Lasso](https://www.getlassoai.com/) | "Robotic Process Automation for Chrome using ChatGPT and computer vision" | YC W23 |
 | [Gnbly](https://gnbly.com/) | "book restaurants reservations, call service providers, etc." | makes voice calls |
+| [Layup](https://www.layupai.com/) | "initiate… customized workflows to complete your everyday tasks" | YC W23 |
 
 ### Delegate domain-specific actions to an online agent
 
