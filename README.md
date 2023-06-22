@@ -35,6 +35,7 @@ Primary modality = text
 | [Typeface](https://www.typeface.ai/) | "personalized content creation for work" | can also generate images and other types of content; Feb 2023 [announced](https://www.prnewswire.com/news-releases/typeface-emerges-from-stealth-with-a-generative-ai-application-for-enterprise-content-creation-and-65-million-in-funding-301756660.html) $65M raise |
 | [Type](https://type.ai/) | "write remarkably fast" | YC W23 |
 | [Reword](https://reword.co/) | "an editor that thinks" | |
+| [GhostWrite](https://www.ghostwrite.rip/) | "let us do the talking for you" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Get help writing text in specific verticals
 
@@ -126,6 +127,7 @@ Primary modality = text
 | [Parabolic](https://www.growparabolic.com/) | "AI assistant for customer support" | YC W23 |
 | [Inkeep](https://www.inkeep.com/) | "conversational search for your developer product" | YC W23 |
 | [Sapling](https://sapling.ai/) | "copilot for customer-facing teams" | also for sales and success |
+| [Birch.AI](https://birch.ai/) | "automating complex after-call-work" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Automatically support your employees
 
@@ -187,6 +189,7 @@ Primary modality = text
 | [Gloo](https://www.trygloo.com/) | "connect ChatGPT to your knowledgebase" | YC W23 |
 | [Tennr](https://www.tennr.com/) | "custom large language models that bring… AI to your team and product" | YC W23 |
 | [Wisdom](https://wisdomai.com/) | "unlock your content with conversational chat" | product, not company? |
+| [Samaya](https://samaya.ai/) | "answer complex questions and uncover hidden insights" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Accelerate hiring
 
@@ -278,6 +281,7 @@ Primary modality = text
 | [Lasso](https://www.getlassoai.com/) | "Robotic Process Automation for Chrome using ChatGPT and computer vision" | YC W23 |
 | [Gnbly](https://gnbly.com/) | "book restaurants reservations, call service providers, etc." | makes voice calls |
 | [Layup](https://www.layupai.com/) | "initiate… customized workflows to complete your everyday tasks" | YC W23 |
+| [Minion AI](https://minion.ai/) | "automated browser assistant" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Delegate domain-specific actions to an online agent
 
@@ -302,6 +306,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Replika](https://replika.ai/) | "ready to chat when you need an empathetic friend" | |
 | [Character.AI](https://character.ai) | "a unique social network that lets you talk with bots" | Noam Shazeer, Daniel De Freitas, et al. |
+| [Circle Labs](https://circlelabs.xyz/) | "talk to a cheese or a fish or ur favorite anime character" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Receive personalized coaching in some area
 
@@ -349,6 +354,7 @@ Primary modality = image
 | --- | --- | --- |
 | [Midjourney](https://www.midjourney.com/) | text-to-image / "expanding the imaginative powers of the human species" | self-funded |
 | [Facet](https://facet.ai/) | "automates the most repetitive parts of your [image editing] workflow" | also [prompt.ist](https://prompt.ist/) |
+| [Recraft](https://www.recraft.ai/) | "generate stunning vector art, illustrations and 3D images" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Easily synthesize and/or manipulate images in non-gaming verticals
 
@@ -360,6 +366,8 @@ Primary modality = image
 | [Supermeme](https://www.supermeme.ai/) | "turn text into memes" | |
 | [Stylized](https://www.stylized.ai/) | "studio quality photography, no studio required" | |
 | [Booth.ai](https://www.booth.ai/) | "pro quality product photography with AI" | YC W23 |
+| [Flair](https://flair.ai/) | "AI design tool for branded content" | [AI Grant](https://aigrant.org/) batch 1 |
+| [Pixelcut](https://www.pixelcut.ai/) | "create product photos 10x faster" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Automatically improve third-party images
 
@@ -391,6 +399,7 @@ Primary modality = video
 | [Linum](https://www.linum.ai/) | "generate footage and iterate on it" | YC W23 |
 | [Elai](https://elai.io/) | "videos [with a presenter] from just text" | |
 | [Roll](https://www.roll.ai/) | "studio-quality remote videos with just your phone" | |
+| [Wombo](https://www.w.ai/) | "create fun and entertaining clips" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Easily synthesize and/or manipulate video in specific verticals
 
@@ -405,6 +414,7 @@ Primary modality = video
 | [Munch](https://www.getmunch.com/) | "extracts the most engaging… clips from your long-form videos" | |
 | [Guidde](https://www.guidde.com/) | "create video documentation 11x faster" | |
 | [Dumme](https://dumme.com/) | "turn videos into engaging shorts" | YC W22; Jun 2023 [announced](https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/) $3.4M seed |
+| [Doly](https://www.animl.ai/) | "generate infinite videos for your product" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Search through video content more effectively
 
@@ -467,7 +477,7 @@ Primary modality = 3D model
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Anything World](https://anything.world/) | "build interactive 3D experiences up to 40% faster" | |
-| [Poly](https://withpoly.com/) | "generate 3D design assets in seconds" | Jan 2023 [announced](https://www.finsmes.com/2023/01/poly-raises-4m-in-seed-funding.html) $4M seed |
+| [Poly](https://withpoly.com/) | "generate 3D design assets in seconds" | may have pivoted to textures?; Jan 2023 [announced](https://www.finsmes.com/2023/01/poly-raises-4m-in-seed-funding.html) $4M seed |
 
 Primary modality = structured content, other software, etc.
 -----------------------------------------------------------
@@ -495,6 +505,7 @@ Primary modality = structured content, other software, etc.
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Fermat](https://fermat.app/) | "creativity augmented for your design team" | |
+| [Vizcom](https://www.vizcom.ai/) | "combination of hand sketching and AI processing tools" | [AI Grant](https://aigrant.org/) batch 1 |
 
 ### Build software integrations and pipelines more quickly
 
