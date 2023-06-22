@@ -167,6 +167,7 @@ Primary modality = text
 | [Numerous.ai](https://numerous.ai/) | "ChatGPT right inside your spreadsheet" | |
 | [Channel](https://www.usechannel.com/) | "ask any data question, in plain English" | |
 | [Outerbase](https://outerbase.com/) | "visualize your data… without needing to be a database expert" | YC W23 |
+| [Equals](https://equals.com/ai/) | "generate formulas, write SQL, summarize data" | |
 
 ### Let your users access data more easily
 
@@ -290,6 +291,7 @@ Primary modality = text
 | [Milo](https://www.joinmilo.com/) | "don't send it to mom, send [parenting tasks] to Milo" | Jan 2023 [reported](https://www.theinformation.com/articles/openai-bolsters-ties-to-other-ai-startups-with-venture-investments) OpenAI seed funding |
 | [DoNotPay](https://donotpay.com/) | "the world's first robot lawyer" | founded in 2015 but has [prominent GPT-3 demos](https://www.theverge.com/2022/12/13/23505873/donotpay-negotiate-bills-ai-chatbot) |
 | [TravelU](https://www.travelyourway.xyz/) | "your AI travel assistant right on WhatsApp/SMS" | |
+| [Zuma](https://www.getzuma.com/) | "your own personal AI leasing agent" | |
 
 ### Build custom agents to automate actions
 
@@ -316,11 +318,12 @@ Primary modality = text
 | [InterviewJam](https://interviewjam.io/) | "make interview preparation easy and fun" | |
 | [Amorai](https://amorai.co/) | "master the skill of human connection" | Renate Nyborg; Apr 2023 [announced](https://amorai.notion.site/Former-Tinder-CEO-Apple-and-Headspace-executive-Renate-Nyborg-announces-Pre-Seed-funding-round-led--a9dac0b96e12427ca7c600a835b30f85) pre-seed |
 
-### Make game characters more engaging
+### Make engaging in-game characters
 
 | Name | Value | Notes |
 | --- | --- | --- |
 | [InWorld](https://www.inworld.ai/) | create characters that "that think, talk, and act for themselves" | |
+| [Regression](https://www.regression.gg/) | "build your own AIs and compete" | also, "learn with code and AI" |
 
 ### Educate your employees more effectively
 
@@ -350,11 +353,14 @@ Primary modality = image
 
 ### Easily synthesize and/or manipulate general-purpose images
 
+(No attempt to be comprehensive in this category.)
+
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Midjourney](https://www.midjourney.com/) | text-to-image / "expanding the imaginative powers of the human species" | self-funded |
 | [Facet](https://facet.ai/) | "automates the most repetitive parts of your [image editing] workflow" | also [prompt.ist](https://prompt.ist/) |
 | [Recraft](https://www.recraft.ai/) | "generate stunning vector art, illustrations and 3D images" | [AI Grant](https://aigrant.org/) batch 1 |
+| [Reface](https://reface.ai/) | "[tools that] empower content creation" | |
 
 ### Easily synthesize and/or manipulate images in non-gaming verticals
 
@@ -400,6 +406,7 @@ Primary modality = video
 | [Elai](https://elai.io/) | "videos [with a presenter] from just text" | |
 | [Roll](https://www.roll.ai/) | "studio-quality remote videos with just your phone" | |
 | [Wombo](https://www.w.ai/) | "create fun and entertaining clips" | [AI Grant](https://aigrant.org/) batch 1 |
+| [Captions](https://www.captions.ai/) | "create studio-grade videos in a few taps" | |
 
 ### Easily synthesize and/or manipulate video in specific verticals
 
@@ -421,6 +428,7 @@ Primary modality = video
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Twelve Labs](https://twelvelabs.io/) | "contextual understanding for video" | Dec 2022 [announced](https://techcrunch.com/2022/12/05/twelve-labs-lands-12m-for-ai-that-understands-the-context-of-videos/) $12M seed extension |
+| [Coactive](https://coactive.ai/) | "unleash the power in your visual content" | Mar 2023 [announced](https://coactive.ai/blog/blog-14-context-to-content) $14M A |
 
 Primary modality = audio
 ------------------------
