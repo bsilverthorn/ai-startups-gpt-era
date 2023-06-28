@@ -168,6 +168,7 @@ Primary modality = text
 | [Channel](https://www.usechannel.com/) | "ask any data question, in plain English" | |
 | [Outerbase](https://outerbase.com/) | "visualize your data… without needing to be a database expert" | YC W23 |
 | [Equals](https://equals.com/ai/) | "generate formulas, write SQL, summarize data" | |
+| [Comparative](https://www.comparative.ai/) | "automates data analysis" | |
 
 ### Let your users access data more easily
 
@@ -199,6 +200,7 @@ Primary modality = text
 | [Hume](https://www.gethume.com/) | "automatically record, transcribe and summarize every candidate interaction" | Jan 2023 [announced](https://www.finsmes.com/2023/01/hume-ai-raises-12-7m-in-series-a-funding.html) $12.7M A |
 | [Impress](https://impress.ai/) | "recruitment automation platform" | |
 | [Humbird](https://www.humbird.ai/) | "automate your hiring process" | |
+| [Covey](https://getcovey.com/) | "source more accurately with AI" | |
 
 ### Provide better search tools in your app or site
 
