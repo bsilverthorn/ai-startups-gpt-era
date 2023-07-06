@@ -46,7 +46,7 @@ Primary modality = text
 | [Empathy](https://www.empathy.com/) | "comprehensive support for navigating grief" | Sep 2021 [reported](https://www.empathy.com/blog/a-new-chapter-in-supporting-bereaved-families-empathys-series-a) $30M A; Feb 2023 [press](https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/) on obit generator |
 | [Qatent](https://qatent.com/) | "draft quality patents more quickly" | |
 | [Rogue](https://www.userogue.com/) | "write responses to Sources Sought, Requests for information, and Requests for Proposals" | |
-| [EvenUp](https://www.evenuplaw.com/) | "AI-driven demand packages for injury lawyers" |  |
+| [EvenUp](https://www.evenuplaw.com/) | "AI-driven demand packages for injury lawyers" | Jun 2023 [reported](https://techcrunch.com/2023/06/08/evenup-wants-to-automate-personal-injury-settlements-to-a-point/) $65M total raised |
 | [Swell AI](https://www.swellai.com/) | "AI writer for podcasters" | |
 | [Rezi](https://www.rezi.ai/) | "automate every aspect of creating a hirable resume" | |
 
@@ -110,7 +110,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Venturefy](https://www.venturefy.com/) | "verified relationship listings for the world's corporations" | |
 
-### Automatically support your customers / users
+### Support your customers / users more efficiently
 
 | Name | Value | Notes |
 | --- | --- | --- |
@@ -128,6 +128,7 @@ Primary modality = text
 | [Inkeep](https://www.inkeep.com/) | "conversational search for your developer product" | YC W23 |
 | [Sapling](https://sapling.ai/) | "copilot for customer-facing teams" | also for sales and success |
 | [Birch.AI](https://birch.ai/) | "automating complex after-call-work" | [AI Grant](https://aigrant.org/) batch 1 |
+| [EvaluAgent](https://www.evaluagent.com/) | "evaluate every conversation across all channels" | Jun 2023 [announced](https://techcrunch.com/2023/06/23/evaluagent-raises-20m-to-build-out-software-to-evaluate-call-center-agents/) $20M A |
 
 ### Automatically support your employees
 
@@ -245,6 +246,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Avoca](https://www.avoca.ai/) | "AI customer communications platform for your [small] business" | YC W23 |
 | [Sameday](https://www.gosameday.com/) | "close more leads by answering any phone calls you miss" | YC W23 |
+| [Slang](https://www.slang.ai/) | "answers questions, takes reservations, and satisfies callers" | Jun 2023 [reported](https://techcrunch.com/2023/06/28/slang-taps-ai-to-answer-phone-calls-for-brick-and-mortar-businesses/) $20M total raised |
 
 ### Do product management more productively
 
@@ -349,6 +351,7 @@ Primary modality = text
 | [OfOne](https://www.of.one/) | "automate your drive-thru" | YC W23 |
 | [July](https://withjuly.com/) | "put your brand deals on autopilot" | |
 | [TurbineOne](https://www.turbineone.com/) | "intel analytics without coding" | |
+| [Blackbird](https://www.blackbird.ai/) | "risk intelligence [for digital narratives]" | Jun 2023 [announced](https://techcrunch.com/2023/06/15/blackbird-lands-20m-investment-to-expand-its-risk-management-tools/) $20M B |
 
 Primary modality = image
 ------------------------
@@ -391,6 +394,12 @@ Primary modality = image
 | [Leonardo.AI](https://leonardo.ai/) | "create stunning game assets with AI" | |
 | [Rosebud](https://www.rosebud.ai/) | "get the exact visual you need" | |
 | [Iliad](https://iliad.ai/) | "AI generation system for game designers" | YC W23 |
+
+### Understand images for some other useful purpose
+
+| Name | Value | Notes |
+| --- | --- | --- |
+| [SnapCalorie](https://www.snapcalorie.com/) | "your personal nutrition assistant" | Jun 2023 [announced](https://techcrunch.com/2023/06/26/snapcalorie-computer-vision-health-app-raises-3m/) $3M seed |
 
 Primary modality = video
 ------------------------
@@ -444,6 +453,7 @@ Primary modality = audio
 | [Play.ht](https://play.ht/) | "AI powered text to voice generator" | YC W23 |
 | [Respeecher](https://www.respeecher.com/) | "create speech that's indistinguishable from the original speaker" | |
 | [WellSaid](https://wellsaidlabs.com/) | "create voiceovers from text" | |
+| [ElevenLabs](https://elevenlabs.io) | "rich and lifelike voices to creators and publishers" | Jun 2023 [announced](https://techcrunch.com/2023/06/20/voice-generating-platform-elevenlabs-raises-19m-launches-detection-tool/) $19M A |
 
 ### Easily synthesize and/or manipulate music
 
@@ -464,6 +474,7 @@ Primary modality = audio
 | Name | Value | Notes |
 | --- | --- | --- |
 | [Deepgram](https://deepgram.com/) | "transcribe real-world audio with an API call" | Nov 2022 [announced](https://blog.deepgram.com/deepgram-72-million-series-b-defines-future-of-ai-speech-understanding/) $72M B |
+| [Gladia](https://techcrunch.com/2023/06/19/gladia-turns-any-audio-into-text-in-near-real-time/) | "AI transcription, translation and audio intelligence" | Jun 2023 [announced](https://techcrunch.com/2023/06/19/gladia-turns-any-audio-into-text-in-near-real-time/) $4M seed |
 
 ### Get practice learning a language
 
