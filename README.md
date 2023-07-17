@@ -60,6 +60,7 @@ Primary modality = text
 | [Katteb](https://katteb.com/en/) | "create content for your blog and online store" | |
 | [CopyMonkey](https://copymonkey.ai/) | "AI-powered Amazon listing optimization" | |
 | [CopySmith](https://copysmith.ai/) | "scale your ecommerce product content creation" | |
+| [Tugan.ai](https://www.tugan.ai/) | "instantly generate [social media content]" | |
 
 ### Write code faster or better
 
@@ -129,6 +130,7 @@ Primary modality = text
 | [Sapling](https://sapling.ai/) | "copilot for customer-facing teams" | also for sales and success |
 | [Birch.AI](https://birch.ai/) | "automating complex after-call-work" | [AI Grant](https://aigrant.org/) batch 1 |
 | [EvaluAgent](https://www.evaluagent.com/) | "evaluate every conversation across all channels" | Jun 2023 [announced](https://techcrunch.com/2023/06/23/evaluagent-raises-20m-to-build-out-software-to-evaluate-call-center-agents/) $20M A |
+| [Fini](https://www.usefini.com/) | "turn your knowledge base into AI chat" | YC S22 |
 
 ### Automatically support your employees
 
@@ -148,6 +150,7 @@ Primary modality = text
 | [Avoma](https://www.avoma.com/) | "AI meeting lifecycle assistant" | founded 2017; bit of an AI rebrand? |
 | [Sembly](https://www.sembly.ai/) | "takes meeting notes and generates insights" | |
 | [Vowel](https://www.vowel.com/) | "host, summarize, search, and share video meetings" | |
+| [Noota](https://www.noota.io/) | "meeting reports, real-time coaching & suggest answers" | |
 
 ### Make other internal business communication more efficient
 
@@ -341,6 +344,7 @@ Primary modality = text
 | --- | --- | --- |
 | [Flash Insights](https://getflashinsights.com/) | "get insights from any web page or video" | |
 | [Artisan](https://withartisan.com/) | "personal trainer for self-guided learners" | |
+| [Upword](https://www.upword.ai/) | "get your research done 10X faster" | |
 
 ### Sui generis examples in other specific verticals
 
@@ -448,7 +452,7 @@ Primary modality = audio
 
 | Name | Value | Notes |
 | --- | --- | --- |
-| [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc. |
+| [Resemble AI](https://www.resemble.ai/) | "create human–like voice overs in seconds" | voice cloning, [speech-to-speech](https://www.resemble.ai/voice-changer/), etc.; Jul 2023 [announced](https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/) $8M A |
 | [Podcastle](https://podcastle.ai/) | "studio-quality recording, AI-powered editing" for podcasts | Oct 2021 [announced](https://www.finsmes.com/2021/10/podcastle-raises-7m-in-funding.html) $7M A |
 | [Play.ht](https://play.ht/) | "AI powered text to voice generator" | YC W23 |
 | [Respeecher](https://www.respeecher.com/) | "create speech that's indistinguishable from the original speaker" | |
