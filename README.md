@@ -196,6 +196,7 @@ Primary modality = text
 | [Tennr](https://www.tennr.com/) | "custom large language models that bring… AI to your team and product" | YC W23 |
 | [Wisdom](https://wisdomai.com/) | "unlock your content with conversational chat" | product, not company? |
 | [Samaya](https://samaya.ai/) | "answer complex questions and uncover hidden insights" | [AI Grant](https://aigrant.org/) batch 1 |
+| [Guru](https://www.getguru.com/) | "build your source of truth effortlessly" | Apr 2020 [announced](https://news.crunchbase.com/venture/guru-raises-30m-from-accel-slack-others-as-philly-startup-scene-heats-up/) $30M C |
 
 ### Accelerate hiring
 
