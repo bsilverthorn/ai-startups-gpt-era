@@ -346,6 +346,7 @@ Primary modality = text
 | [Flash Insights](https://getflashinsights.com/) | "get insights from any web page or video" | |
 | [Artisan](https://withartisan.com/) | "personal trainer for self-guided learners" | |
 | [Upword](https://www.upword.ai/) | "get your research done 10X faster" | |
+| [Quench.ai](https://quench.ai/) | "your personal AI learning coach" | Jul 2023 [announced](https://www.finsmes.com/2023/07/quench-ai-raises-5m-in-pre-seed-funding.html) $5M pre-seed |
 
 ### Sui generis examples in other specific verticals
 
