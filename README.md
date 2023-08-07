@@ -505,6 +505,7 @@ Primary modality = 3D model
 | --- | --- | --- |
 | [Anything World](https://anything.world/) | "build interactive 3D experiences up to 40% faster" | |
 | [Poly](https://withpoly.com/) | "generate 3D design assets in seconds" | may have pivoted to textures?; Jan 2023 [announced](https://www.finsmes.com/2023/01/poly-raises-4m-in-seed-funding.html) $4M seed |
+| [Spline](https://spline.design/) | "design and collaborate in 3D" | not really AI-native but still relevant?; Jul 2023 [announced](https://techcrunch.com/2023/07/13/spline-a-no-code-design-tool-for-creating-3d-assets-raises-15m/) $15M seed |
 
 Primary modality = structured content, other software, etc.
 -----------------------------------------------------------
