@@ -291,6 +291,7 @@ Primary modality = text
 | [Gnbly](https://gnbly.com/) | "book restaurants reservations, call service providers, etc." | makes voice calls |
 | [Layup](https://www.layupai.com/) | "initiate… customized workflows to complete your everyday tasks" | YC W23 |
 | [Minion AI](https://minion.ai/) | "automated browser assistant" | [AI Grant](https://aigrant.org/) batch 1 |
+| [Moemate](https://www.moemate.io/) | "virtual companion that enriches your life" | |
 
 ### Delegate domain-specific actions to an online agent
 
@@ -358,6 +359,7 @@ Primary modality = text
 | [July](https://withjuly.com/) | "put your brand deals on autopilot" | |
 | [TurbineOne](https://www.turbineone.com/) | "intel analytics without coding" | |
 | [Blackbird](https://www.blackbird.ai/) | "risk intelligence [for digital narratives]" | Jun 2023 [announced](https://techcrunch.com/2023/06/15/blackbird-lands-20m-investment-to-expand-its-risk-management-tools/) $20M B |
+| [DeckMatch](https://www.deckmatch.com/) | "gives VC associates superpowers" | Aug 2023 [announced](https://techcrunch.com/2023/08/15/deckmatch-seed-round/) $1M seed |
 
 Primary modality = image
 ------------------------
