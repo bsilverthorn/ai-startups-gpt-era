@@ -1,6 +1,8 @@
 AI Startups in the GPT Era
 ==========================
 
+_**Unmaintained as of August 2023**. The market has entered its "try everything" phase, which is less interesting to catalog. Now we wait and see who wins._
+
 What businesses are enabled by this new era[^0]?
 
 It's clear that we have new tools at our disposal. What those tools are good
